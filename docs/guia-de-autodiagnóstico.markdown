@@ -2,6 +2,8 @@
 layout: page
 title: Guía de autodiagnóstico
 permalink: /guia-de-autodiagnóstico/
+minima:
+  skin: dark
 ---
 
 # Tabla de contenidos
