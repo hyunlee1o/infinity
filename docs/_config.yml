@@ -33,7 +33,9 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-markdown: GFM
+  - jemoji
+# markdown: GFM
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
