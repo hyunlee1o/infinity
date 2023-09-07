@@ -2,8 +2,6 @@
 layout: page
 title: Guía de autodiagnóstico
 permalink: /guia-de-autodiagnóstico/
-minima:
-  skin: dark
 ---
 
 # Tabla de contenidos
@@ -78,13 +76,14 @@ Somos un colectivo con un 80-96% de paro y que no puede permitirse perder más a
 ## Expresiones relevantes
 
 | Palabra | Explicación |
-| ----- | ------- |
+| ------ | ------ |
 | "Stimming" | Autoestimulación, cosas que hacen les neurodivergentes para autorregularse |
 | NT o Neurotípique/o/a | Tu cerebro es normativo. Gente que no es neurodivergente. |
 | ND o Neurodivergente| Tu cerebro es diferente a lo normativo.<br/>Puede ser por desarrollo por tus circunstancias vitales o por genética. |
-| Alista | No autista.<br/>Incluye personas neurodivergentes que no son autistas y a personas neurotípicas.|
-| Misautismia | Discriminación contra las personas autistas.|
-| Capacitismo | Discriminación en base a las capacidades de las personas.|
+| Alista | No autista.<br/>Incluye personas neurodivergentes que no son autistas y a personas neurotípicas. |
+| Misautismia | Discriminación contra las personas autistas. |
+| Capacitismo | Discriminación en base a las capacidades de las personas. |
+
 ## Sobre el lenguaje médico
 
 Se suelen hablar de las palabras para referirse a la gente autista y a sus

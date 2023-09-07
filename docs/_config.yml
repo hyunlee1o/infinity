@@ -42,8 +42,8 @@ minima:
   skin: dark
 
 
-markdown: GFM
-# markdown: kramdown
+# markdown: GFM
+markdown: kramdown
   
 # Exclude from processing.
 # The following items will not be processed, by default.
