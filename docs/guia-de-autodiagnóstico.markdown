@@ -50,9 +50,7 @@ permalink: /guia-de-autodiagnóstico/
 
 ---
 
-Escrito por [<u>Asamblea Autista
-Madrid</u>](https://github.com/AsambleaAutistaMadrid/General/wiki/)  
-[Enlace a la versión wiki mas actualizada](https://github.com/AsambleaAutistaMadrid/General/wiki/Recurso%3A-Gu%C3%ADa-de-autodiagn%C3%B3stico-de-autismo-para-documentaci%C3%B3n-y-autoan%C3%A1lisis.-%5BIncluye-plantilla-rellenable%5D)
+Escrito por <u>hyunlee1o</u>
 
 ---
 
@@ -1214,10 +1212,11 @@ Aquí entraría todo lo que no consigas poner en ninguna categoría de las anter
 # Descargas [[Ir arriba]][1]
 
 ## Guía de autodiagnóstico [[Ir arriba]][1]
-* [Formato PDF (.pdf)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.pdf)
-* [Formato Word (.docx)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.docx)
-* [Formato texto (.txt)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.txt)
-* [Formato libro digital (.epub)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.epub)
+[Descarga](https://drive.google.com/drive/u/0/folders/1K-1VUJbQvm-sWT0SE9UxhbKSBra0J6Nb)
+<!-- * [Formato PDF (.pdf)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.pdf) -->
+<!-- * [Formato Word (.docx)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.docx) -->
+<!-- * [Formato texto (.txt)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.txt) -->
+<!-- * [Formato libro digital (.epub)](https://github.com/AsambleaAutistaMadrid/General/raw/main/p%C3%A1ginas_wiki/guia-de-autodiagnostico/descargas/guia-descargable/guia-de-autodiagnostico.epub) -->
 
 ## Plantillas rellenables para documentación de rasgos [[Ir arriba]][1]
 
