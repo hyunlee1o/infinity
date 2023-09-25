@@ -1,5 +1,5 @@
 ---
-layout: page
+<!-- layout: page -->
 title: Guía de autodiagnóstico
 permalink: /guia-de-autodiagnóstico/
 ---

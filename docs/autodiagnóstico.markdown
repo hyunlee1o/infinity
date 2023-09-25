@@ -21,7 +21,7 @@ permalink: /autodiagnóstico/
 <!-- --- -->
 
 # Recursos de autodiagnóstico
-## :book: [Guía de autodiagnóstico de autismo para documentación y autoanálisis](guia-de-autodiagnóstico). 
+## :book: [Guía de autodiagnóstico de autismo para documentación y autoanálisis](../guia-de-autodiagnóstico). 
 Este documento es una herramienta escrita para **facilitar el autoconocimiento** y la **recopilación de todos los rasgos** "divergentes" o "autistas". 
 * :pick: :hammer: <u>**Te adueñas de tu proceso de diagnóstico**</u>: Evita depender de las conclusiones de profesionales (probablemente neurotípiques). 
 * :heavy_check_mark: :memo: <u>**Facilita los diagnósticos oficiales**</u>: Vas con los deberes hechos y además ayudará a la evaluación.
@@ -46,17 +46,22 @@ Sentirse identificade con muchos de los aspectos que narran puede ser muy revela
 
 # Sesiones de apoyo al autodiagnóstico
 Son sesiones guiadas por voluntaries de la asamblea donde hacemos un repaso de rasgos autistas, experiencias y preparamos para diagnóstico oficial. 
+
 | Dato | Descripción |
 | :----: | :----------- |
 | :reunion: **Lugar** | Se realizan por :genie:[Jitsi](https://meet.jit.si/)  Jitsi. |
 | :watch: **Duración**| Dos horas aproximadamente. |
 | :moneybag:  **Precio** | :cat: <u>Gratuito</u>/Gatuito. Se aceptan donaciones. |
 | :classical_building: **Asistentes** | Se permiten :ear: oyentes, :question: preguntas e intervenciones del público. |
-<!-- | :calendar: **Fechas**| Se publican en el [calendario google de la asamblea](Interno%3A-Calendario-asambleas-y-terapia#calendar-enlace-al-calendario-google-p%C3%BAblico-de-la-asamblea). | -->
 | :memo: :warning: **Antes de la sesión** | Hay que traer [estos deberes](#preparar-antes-de-la-sesión) hechos antes de la sesión para aprovecharla al máximo. |
-<!-- | :outbox_tray: **Pedir sesiones**| Hay que rellenar :writing_hand: [este formulario](https://forms.gle/mFDyKPA2FT4CY1898).<br/> Es para organizar las sesiones y **pedir las adaptaciones** necesarias.<br/>Se organizan cuando les voluntaries tienen disponibilidad horaria y cucharas :spoon:. | -->
 | :outbox_tray: **Pedir sesiones**| Hablar con la persona encargada. |
-<!-- | :inbox_tray: **Opiniones** o <br/> **Agradecimientos** / **Quejas** | [Formulario](https://forms.gle/xKAPvHu8gM5MZuPr8) para aportar tu opinión. | -->
+
+<!-- | :calendar: **Fechas**| Se publican en el [calendario google de la asamblea](Interno%3A-Calendario-asambleas-y-terapia#calendar-enlace-al-calendario-google-p%C3%BAblico-de-la-asamblea). | -->
+<!-- | :outbox_tray: **Pedir sesiones**| Hay que rellenar :writing_hand: [este formulario](https://forms.gle/mFDyKPA2FT4CY1898).<br/> Es para organizar las sesiones y **pedir las adaptaciones** necesarias.<br/>Se organizan cuando les voluntaries tienen disponibilidad horaria y cucharas :spoon:. | -->
+<!-- | :inbox_tray: **Opiniones** o <br/> **Agradecimientos** / **Quejas** | -->
+<!-- [Formulario](https://forms.gle/xKAPvHu8gM5MZuPr8) para aportar tu -->
+<!-- opinión. | -->
+
 ---
 
 ## Preparar antes de la sesión
