@@ -33,7 +33,7 @@ github_username:  jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-  - jemoji
+  # - jemoji
   - jekyll-openmoji
 
 remote_theme: jekyll/minima
@@ -44,6 +44,16 @@ minima:
 
 # markdown: GFM
 markdown: kramdown
+
+emoji:
+  src: "https://cdn.honglin.eu.org"
+  asset: "/emojis/openmoji"
+  extension: "svg"
+  img_attrs:
+    class: "emoji"
+    height: "25"
+    width: "25"
+
   
 # Exclude from processing.
 # The following items will not be processed, by default.
