@@ -1,0 +1,7 @@
+title: Infinity ♾️ [DEBUG MODE]
+email: your-test@mail.com
+description: >- # this means to ignore newlines until "baseurl:"
+    Pagina de testing para documentos autistas
+debug: true
+url: http://127.0.0.1:4000
+baseurl:
