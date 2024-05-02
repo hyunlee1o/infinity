@@ -398,10 +398,8 @@ procedimientos de identificación y diagnóstico tiene como características:
   de las pruebas de diagnóstico oficial. Ha sido creada en un esfuerzo
   colaborativo por la comunidad autistas, uniendo las experiencias de todes.
 
+![](assets/guia-de-autodiagnóstico/espectro-autista-no-lineal.jpeg)
 #### Imagen 1
-
-<img style="float:none" src="assets/guia-de-autodiagnóstico/espectro-autista-no-lineal.jpeg" width="50%" alt='Espectro Autista\nEl espectro autista no es lineal,\nDe poco autista a muy autista.\nEl espectro autista se ve así:\nSalen dos diagramas de tarta con diferentes apartados: habilidades\nsociales, intereses especiales, rutinas, procesamiento sensorial,\n*\"stimming\"*/autorregulación, percepción, función ejecutiva, otros.\n\Términos como "alto funcionamiento", "bajo funcionamiento" y "Asperger"\nson dañinos y obsoletos.\n@NEURODIVERLETRAS ÂÛ Autism_sketches'/>
-
 Fuente: [@NEURODIVERLETRAS ÂÛ](https://www.facebook.com/neurodiverletrasau) | [Imagen traducida](https://www.facebook.com/neurodiverletrasau/photos/pb.100063575712237.-2207520000../791956375569110/?type=3) | [Autism_sketches](https://www.instagram.com/autism_sketches/) | [Imagen original](https://www.instagram.com/p/Cb2ykmTM0TN/)
 
 # Planteamiento y objetivo de la guía [[Ir arriba]][1]
