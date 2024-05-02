@@ -1,0 +1,33 @@
+#!/usr/bin/env just --justfile
+PANDOC_OPTIONS := "-C"
+PANDOC_DOCX_OPTIONS := ""
+PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
+PANDOC_TXT_OPTIONS := ""
+CWD := justfile_directory()
+PANDOC_PDF_OPTIONS := '-s --pdf-engine=lualatex -H ' + CWD + '/preamble.tex --lua-filter='+CWD+'/parse-html.lua'
+FROM := "gfm"
+
+
+docx FILE OUTPUT FILENAME:
+	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_DOCX_OPTIONS}} --from {{FROM}} --to docx -o {{OUTPUT}}/{{FILENAME}}.docx {{FILE}}
+
+txt FILE OUTPUT FILENAME:
+	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_TXT_OPTIONS}} --from {{FROM}} --to plain -o {{OUTPUT}}/{{FILENAME}}.txt {{FILE}}
+
+epub FILE OUTPUT FILENAME:
+	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{OUTPUT}}/{{FILENAME}}.epub  {{FILE}}
+
+# metadata must be a yaml
+pdf FILE OUTPUT FILENAME METADATA:
+	#!/usr/bin/env bash
+	set -euxo pipefail
+	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_PDF_OPTIONS}} --from {{FROM}} -o {{OUTPUT}}{{FILENAME}}.pdf {{FILE}} --metadata-file={{METADATA}}
+
+all FILE OUTPUT FILENAME METADATA:
+	just pdf {{FILE}} {{OUTPUT}} {{FILENAME}} {{METADATA}}
+	just docx {{FILE}} {{OUTPUT}} {{FILENAME}}
+	just txt {{FILE}} {{OUTPUT}} {{FILENAME}}
+	just epub {{FILE}} {{OUTPUT}} {{FILENAME}}
+
+default FILE OUTPUT FILENAME METADATA:
+	just --list

@@ -1,0 +1,11 @@
+\usepackage{fontspec}
+\directlua{luaotfload.add_fallback
+   ("emojifallback",
+    {
+      "NotoColorEmoji:mode=harf;"
+    }
+   )}
+
+\setmainfont{TeX Gyre Termes}[
+  RawFeature={fallback=emojifallback}
+]
