@@ -1,0 +1,4 @@
+serve:
+    bundle exec jekyll serve
+debug:
+    bundle exec jekyll serve --config debug.yml
