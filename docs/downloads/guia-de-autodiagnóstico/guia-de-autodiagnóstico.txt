@@ -1,10 +1,13 @@
 Tabla de contenidos
 
-1.  Presentación
-2.  Glosario
+1.  Descargas
+    1.  Guía de autodiagnóstico
+    2.  Plantillas rellenables
+2.  Presentación
+3.  Glosario
     1.  ✔️ 🔠 Expresiones relevantes
     2.  ❌ 📘 Sobre el lenguaje médico
-3.  Sobre los diagnósticos
+4.  Sobre los diagnósticos
     1.  📝 Vías de (auto)diagnosticarse
     2.  ❌ 👎 Crítica a los procesos de diagnóstico oficiales
         1.  😢 Violencias habituales en la búsqueda de diagnóstico
@@ -12,12 +15,12 @@ Tabla de contenidos
             oficiales
         3.  👎 Problemas de las pruebas diagnósticas
         4.  👍 Ventajas del autodiagnóstico documentado
-4.  Planteamiento y objetivo de la guía
+5.  Planteamiento y objetivo de la guía
     1.  📄 ¿Como rellenar la plantilla de autodiagnóstico?
     2.  🤔 ¿Como evaluar nuestros rasgos?
     3.  🫵 ¿Quien debe rellenar la plantilla de autodiagnóstico?
     4.  👍 Ventajas de rellenar la plantilla de autodiagnóstico
-5.  Apartados
+6.  Apartados
     1.  👥 Interacción/comunicación social atípica
         1.  🫂 Reciprocidad socio-emocional / empatía y alexitimia
         2.  🧏 Comunicación atípica
@@ -37,15 +40,25 @@ Tabla de contenidos
     3.  🧒 Rasgos en la infancia/desarrollo
     4.  😩 Efectos en la vida diaria
     5.  Otros
-6.  Descargas
-    1.  Guía de autodiagnóstico
-    2.  Plantillas rellenables
 
 ------------------------------------------------------------------------
 
 Escrito por hyunlee1o
 
 ------------------------------------------------------------------------
+
+Descargas [Ir arriba]
+
+Guía de autodiagnóstico [Ir arriba]
+
+| - | - | - | - | - | | PDF | DOCX | EPUB | TXT|
+
+Plantillas rellenables para documentación de rasgos [Ir arriba]
+
+Estas plantillas sirven para documentar los rasgos autistas/no
+normativos.
+
+| - | - | - | |TXT| DOCX | Texto plano copia pega |
 
 Presentación [Ir arriba]
 
@@ -1439,21 +1452,7 @@ borrador para reorganizarlo luego en donde veas conveniente.
 
 ------------------------------------------------------------------------
 
-Descargas [Ir arriba]
-
-Guía de autodiagnóstico [Ir arriba]
-
-| - | - | - | - | - | | PDF | DOCX | EPUB | TXT|
-
-Plantillas rellenables para documentación de rasgos [Ir arriba]
-
-Estas plantillas sirven para documentar los rasgos autistas/no
-normativos.
-
--   Plantilla en formato Texto (.txt)
--   Plantilla en formato Word (.docx)
-
-Plantilla lista para copiar y pegar [Ir arriba]
+Plantilla de rasgos para copia pega [Ir arriba]
 
 ------------------------------------------------------------------------
 
