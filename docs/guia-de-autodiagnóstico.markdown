@@ -1234,46 +1234,28 @@ Aquí entraría todo lo que no consigas poner en ninguna categoría de las anter
 ---
 
 ```
-## Reciprocidad socio-emocional
-
-* ### Muestras de empatía atípica.
-
-* ### Alexitimia y dificultades con la interocepción (fisiológica y emocional)
-
-* ### Comunicación.
-
-* ### Dificultad con amistades y relaciones.
-
-* ### Disidencias respecto a convenciones sociales 
-
----
-## Comportamientos y actividades restrictivas/repetitivas
-
-* ### Autoestimulación / Stimming
-
-* ### Comportamiento rígido y patrones de pensamiento atípicos y/o autistas
-
-* ### Intereses especiales
-
-* ### Ecolalias
-
-* ### Sensorialidad Atípica
-
-* ### Enfermedades, trastornos, condiciones conocidas
-
-* ### Disfuncionalidad ejecutiva y/o funcionalidad atípica
-
-* ### Estrategias de enmascaramiento / “Masking”
-
-## Rasgos en la infancia/desarrollo
-
-## Efecto en la vida diaria
-
-## Otros
+1.  👥 Socialización y comunicación atípica
+    1.  🫂 Reciprocidad socio-emocional, empatía y alexitimia
+    2.  🧏 Formas de comunicación no convencionales
+    3.  🗣️ Dificultades en las relaciones sociales
+2.  🔁 ♾️ Comportamientos atípicos y actividades restrictivas/repetitivas
+    1.  🎮 Autoestimulación / "Stimming"
+    2.  ♾️ Rígidez y patrones de pensamiento
+    3.  🔊 🔁 Ecolalias
+    4.  🦖 Intereses especiales
+    5.  💤🔋 Disfuncionalidad ejecutiva y/o funcionalidad atípica
+    6.  😷😶‍🌫️ Enmascaramiento/"Masking"
+    7.  🔁 Compulsiones y TOCs
+3.  Otros
+    1.  🏳️‍🌈 Disidencias
+    2.  🧨 👃 Sensorialidad Atípica
+    3.  💊 Enfermedades, trastornos y condiciones conocidos
+4.  🧒 Rasgos en la infancia/desarrollo
+5.  😩 Efectos en la vida diaria
 ```
 ---
 
-© 2022-2023. Este documento está licenciado a Creative Commons con una
+© 2022-2024. Este documento está licenciado a Creative Commons con una
 licencia [**<u>CC BY-NC-SA</u>**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [1]: #tabla-de-contenidos
