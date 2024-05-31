@@ -102,10 +102,10 @@ para un diagnóstico oficial o siquiera para autodiagnosticarse porque:
         persona no ha empezado su proceso de autodiagnóstico y
         autodescubrimiento.
 
-Somos un colectivo con un 80-96% de paro y que no puede permitirse
-perder más autonomía por el alto grado de intromisión, capacitismo y
-maltrato que existe por parte del sistema capitalista y sus
-instituciones (familias, editoriales, profesionales de la mente,
+Somos un colectivo con una tasa 80-96% de desempleo y que no puede
+permitirse perder más autonomía por el alto grado de intromisión,
+capacitismo y maltrato que existe por parte del sistema capitalista y
+sus instituciones (familias, editoriales, profesionales de la mente,
 gobiernos, alistas influencers, etc.) a toda la gente neurodivergente
 y/o discapacitada. Esta guía es una respuesta a eso.
 
@@ -1038,7 +1038,8 @@ esfuerzo comunicativo.
 
 Ejemplo clásico:
 
-    — Pues hoy fui al trabajo, mi jefe me gritó, acabé muy tarde y estoy muy cansade. En fin, día de mierda.
+    — Pues hoy fui al trabajo, mi jefe me gritó, acabé muy tarde y estoy muy cansade. 
+      En fin, día de mierda.
     — Día de mierda.
     — Sí, me duele todo pero bueno, y tú, ¿cómo estás? ¿Estás bien?
     — ¿Estás bien?
@@ -1475,46 +1476,80 @@ borrador para reorganizarlo luego en donde veas conveniente.
 
 Plantilla de rasgos para copia pega [Ir arriba]
 
+    1.  👥 Socialización y comunicación atípica
+    -----------------------------------------------------------
+        1.  🫂 Reciprocidad socio-emocional, empatía y alexitimia
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        2.  🧏 Formas de comunicación no convencionales
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        3.  🗣 Dificultades en las relaciones sociales
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+    2.  🔁 ♾️ Comportamientos atípicos y actividades restrictivas/repetitivas
+    -----------------------------------------------------------
+        1.  🎮 Autoestimulación / "Stimming"
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        2.  ♾️ Rígidez y patrones de pensamiento
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        3.  🔊 🔁 Ecolalias
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        4.  🦖 Intereses especiales
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        5.  💤🔋 Disfuncionalidad ejecutiva y/o funcionalidad atípica
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        6.  😷😶‍🌫️ Enmascaramiento/"Masking"
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        7.  🔁 Compulsiones y TOCs
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+    3.  Otros
+    -----------------------------------------------------------
+        1.  🏳️‍🌈 Disidencias
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        2.  🧨 👃 Sensorialidad Atípica
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+        3.  💊 Enfermedades, trastornos y condiciones conocidos
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+    -----------------------------------------------------------
+    4.  🧒 Rasgos en la infancia/desarrollo
+    -----------------------------------------------------------
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+    -----------------------------------------------------------
+    5.  😩 Efectos en la vida diaria
+    -----------------------------------------------------------
+        * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+        * * * * * * * * * *   FINAL   * * * * * * * * * *              
+
+    -----------------------------------------------------------
+
 ------------------------------------------------------------------------
 
-    ## Reciprocidad socio-emocional
-
-    * ### Muestras de empatía atípica.
-
-    * ### Alexitimia y dificultades con la interocepción (fisiológica y emocional)
-
-    * ### Comunicación.
-
-    * ### Dificultad con amistades y relaciones.
-
-    * ### Disidencias respecto a convenciones sociales 
-
-    ---
-    ## Comportamientos y actividades restrictivas/repetitivas
-
-    * ### Autoestimulación / Stimming
-
-    * ### Comportamiento rígido y patrones de pensamiento atípicos y/o autistas
-
-    * ### Intereses especiales
-
-    * ### Ecolalias
-
-    * ### Sensorialidad Atípica
-
-    * ### Enfermedades, trastornos, condiciones conocidas
-
-    * ### Disfuncionalidad ejecutiva y/o funcionalidad atípica
-
-    * ### Estrategias de enmascaramiento / “Masking”
-
-    ## Rasgos en la infancia/desarrollo
-
-    ## Efecto en la vida diaria
-
-    ## Otros
-
-------------------------------------------------------------------------
-
-© 2022-2023. Este documento está licenciado a Creative Commons con una
+© 2022-2024. Este documento está licenciado a Creative Commons con una
 licencia CC BY-NC-SA
