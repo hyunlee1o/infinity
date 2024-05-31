@@ -87,7 +87,7 @@ Actualmente autodiagnosticarse es un infierno para mucha gente porque no existen
 
     Lo cual hace que las puntuaciones sean mas bajas cuando la persona no ha empezado su proceso de autodiagnóstico y autodescubrimiento.
 
-Somos un colectivo con un 80-96% de paro y que no puede permitirse perder más autonomía por el alto grado de intromisión, capacitismo y maltrato que existe por parte del sistema capitalista y sus instituciones (familias, editoriales, profesionales de la mente, gobiernos, alistas *influencers*, etc.) a toda la gente neurodivergente y/o discapacitada. Esta guía es una respuesta a eso.
+Somos un colectivo con una tasa 80-96% de desempleo y que no puede permitirse perder más autonomía por el alto grado de intromisión, capacitismo y maltrato que existe por parte del sistema capitalista y sus instituciones (familias, editoriales, profesionales de la mente, gobiernos, alistas *influencers*, etc.) a toda la gente neurodivergente y/o discapacitada. Esta guía es una respuesta a eso.
 
 # Glosario [[Ir arriba]][1]
 
