@@ -1,11 +1,8 @@
 ---
 header-includes:
-  - \usepackage{setspace}
-  - \linespread{1.5}
   - \usepackage{fontspec}
   - \setupexternalfigures[factor=fit]
-geometry:
-  - margin=.4in
+  - margin=0.5cm
 author: 
   - "Colectivo de autodiagnóstico arcoiris dorado"
 title:
@@ -14,8 +11,10 @@ fontsize: 14pt
 number_sections: true
 mainfont:
   - "DejaVuSans"
+monofont:
+  - "Hack"
 emoji:
-  - noto-emoji
+  - "NotoColorEmoji"
 emojifallback:
   - "NotoColorEmoji:mode=harf"
 urlcolor:

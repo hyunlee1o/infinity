@@ -61,7 +61,7 @@ Escrito por <u>hyunlee1o</u>
 
 | Enlaces  |  |  |  |
 | ---- | ----- | ---- | ---- |
-| [PDF](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.pdf) | [DOCX](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.docx) | [EPUB](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.epub) | [TXT](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.txt)|
+| [PDF](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.pdf) | [DOCX](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.docx) | [EPUB](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.epub) | [TXT](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
@@ -69,7 +69,7 @@ Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 
 | Enlaces |  |  |
 | :-: | :-: | :-: |
-|[TXT](downloads/guia-de-autodiagnostico/plantilla.txt)| [DOCX](downloads/guia-de-autodiagnostico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
+|[TXT](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnostico/plantilla.txt)| [DOCX](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnostico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
 
 
 # Presentación [[Ir arriba]][1]
@@ -877,7 +877,8 @@ alistas sin tener que hacer un esfuerzo comunicativo.
 **<u>Ejemplo clásico</u>**:
 
 ```
-— Pues hoy fui al trabajo, mi jefe me gritó, acabé muy tarde y estoy muy cansade. En fin, día de mierda.
+— Pues hoy fui al trabajo, mi jefe me gritó, acabé muy tarde y estoy muy cansade. 
+  En fin, día de mierda.
 — Día de mierda.
 — Sí, me duele todo pero bueno, y tú, ¿cómo estás? ¿Estás bien?
 — ¿Estás bien?
@@ -1231,28 +1232,82 @@ Aquí entraría todo lo que no consigas poner en ninguna categoría de las anter
 
 ### Plantilla de rasgos para copia pega [[Ir arriba]][1]
 
----
 
 ```
 1.  👥 Socialización y comunicación atípica
+-----------------------------------------------------------
     1.  🫂 Reciprocidad socio-emocional, empatía y alexitimia
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     2.  🧏 Formas de comunicación no convencionales
-    3.  🗣️ Dificultades en las relaciones sociales
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
+    3.  🗣 Dificultades en las relaciones sociales
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
 2.  🔁 ♾️ Comportamientos atípicos y actividades restrictivas/repetitivas
+-----------------------------------------------------------
     1.  🎮 Autoestimulación / "Stimming"
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     2.  ♾️ Rígidez y patrones de pensamiento
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     3.  🔊 🔁 Ecolalias
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     4.  🦖 Intereses especiales
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     5.  💤🔋 Disfuncionalidad ejecutiva y/o funcionalidad atípica
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     6.  😷😶‍🌫️ Enmascaramiento/"Masking"
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     7.  🔁 Compulsiones y TOCs
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
 3.  Otros
+-----------------------------------------------------------
     1.  🏳️‍🌈 Disidencias
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     2.  🧨 👃 Sensorialidad Atípica
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
     3.  💊 Enfermedades, trastornos y condiciones conocidos
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
+-----------------------------------------------------------
 4.  🧒 Rasgos en la infancia/desarrollo
+-----------------------------------------------------------
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
+-----------------------------------------------------------
 5.  😩 Efectos en la vida diaria
+-----------------------------------------------------------
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
+
+-----------------------------------------------------------
 ```
+
 ---
 
 © 2022-2024. Este documento está licenciado a Creative Commons con una
