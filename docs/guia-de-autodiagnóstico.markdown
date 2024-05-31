@@ -61,7 +61,7 @@ Escrito por <u>hyunlee1o</u>
 
 | Enlaces  |  |  |  |
 | ---- | ----- | ---- | ---- |
-| [PDF](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.pdf) | [DOCX](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.docx) | [EPUB](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.epub) | [TXT](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.txt)|
+| [PDF](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.pdf) | [DOCX](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.docx) | [EPUB](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.epub) | [TXT](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
@@ -69,7 +69,7 @@ Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 
 | Enlaces |  |  |
 | :-: | :-: | :-: |
-|[TXT](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnostico/plantilla.txt)| [DOCX](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnostico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
+|[TXT](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagnostico/plantilla.txt)| [DOCX](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagnostico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
 
 
 # Presentación [[Ir arriba]][1]
