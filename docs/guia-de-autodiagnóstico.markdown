@@ -29,7 +29,7 @@ permalink: /guia-de-autodiagnóstico/
     1. 👍 [Ventajas de rellenar la plantilla de autodiagnóstico](#ventajas-de-rellenar-la-plantilla-de-autodiagnóstico)
 1. [Apartados](#apartados-ir-arriba)
     1. 👥  [Socialización y comunicación atípica](#socialización-y-comunicación-atípica-ir-arriba)
-        1. 🫂 [Reciprocidad socio-emocional, empatía y alexitimia](#reciprocidad-socio-emocional--empatía-y-alexitimia-ir-arriba)
+        1. 🫂 [Reciprocidad socio-emocional, empatía y alexitimia](#reciprocidad-socio-emocional-empatía-y-alexitimia-ir-arriba)
         1. 🧏 [Formas de comunicación no convencionales](#formas-de-comunicación-no-convencionales-ir-arriba)
         1. 🗣️ [Dificultades en las relaciones sociales](#dificultad-en-las-relaciones-sociales-ir-arriba)
     1. 🔁  ♾️ [Comportamientos atípicos y actividades restrictivas/repetitivas](#comportamientos-atípicos-y-actividades-restrictivasrepetitivas-ir-arriba)
@@ -1040,11 +1040,12 @@ Sufrimos un estigma muy grande al respecto e intentos agresivos de corrección.
 **Ejemplo**: Que una figura de autoridad te niegue el acceso a cualquiera de tus hiperfijaciones o intereses
 y que piense que te está curando o ayudando con tus obsesiones.
 
-Sin embargo, para mucha gente los TOCs muchos casos pueden ser acabar produciendoles angustia que pueden
-sabotearnos y dificultar nuestra vida, en algunos casos, poniendo en peligro nuestra salud. 
 Les autistas tambien los sufrimos especialmente porque forman parte de nuestro repertorio 
 de formas de existir y funcionar. Es bueno tratar el tema en terapias para asegurarnos 
 de que nuestras compulsiones no lleguen a ese punto. 
+Sin embargo, los TOCs (Transtorno obsesivo compulsivo) pueden acabar produciendo angustia o saboteando y dificultando nuestra vida.
+Incluso en algunos casos, poniendo en peligro nuestra salud y sería bueno tomar acciones para
+poder cambiar estos comportamientos.
 
 <u>Lo mas importante</u> es que aprendamos a valorar positivamente nuestras formas de funcionar atípicas.
 No somos juguetes rotos, no necesitamos arreglo salvo que decidamos **por nuestra cuenta** que si necesitamos 
@@ -1124,7 +1125,7 @@ simplemente son atípicos:
 * 👂 **Oído**: Música, ruido y sus intermedios. Ruidos muy leves.
 * ⚖🤹 **Vestibular**: El equilibrio general. Sensaciones al
       estar en vehículos u objetos en movimiento.
-* 🧠 **Interocepción**: La [alexitimia](#reciprocidad-socio-emocional--empatía-y-alexitimia-ir-arriba) y funcionalidad atípica del resto del [sistema interoceptivo](#sistema-interoceptivo).
+* 🧠 **Interocepción**: La [alexitimia](#alexitimia) y funcionalidad atípica del resto del [sistema interoceptivo](#sistema-interoceptivo).
 * 💪 👯 **Propiocepción**: La forma de moverte, aplicar
   fuerza o colocarte. Podemos tener posturas
   atípicas, tener dificultad para hacer movimientos delicados, tener
