@@ -9,7 +9,7 @@ permalink: /guia-de-autodiagnóstico/
 <!-- MarkdownTOC -->
 1. [Descargas](#descargas-ir-arriba)
     1. [Guía de autodiagnóstico](#gu%C3%ADa-de-autodiagn%C3%B3stico-ir-arriba)
-    1. [Plantillas rellenables](#plantillas-rellenables-para-documentación-de-rasgos-ir-arriba)
+    1. [Plantillas rellenables](#plantillas-rellenables-para-documentación-de-rasgos)
 1. [Presentación](#presentación-ir-arriba)
 1. [Glosario](#glosario-ir-arriba)
     1. ✔️ 🔠  [Expresiones relevantes](#expresiones-relevantes)
