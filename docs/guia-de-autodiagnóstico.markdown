@@ -59,14 +59,16 @@ Escrito por <u>hyunlee1o</u>
 
 ## Guía de autodiagnóstico
 
-| - | - | - | - |
+| Enlaces  |  |  |  |
+| ---- | ----- | ---- | ---- |
 | [PDF](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.pdf) | [DOCX](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.docx) | [EPUB](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.epub) | [TXT](downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
 Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 
-| - | - | - |
+| Enlaces |  |  |
+| :-: | :-: | :-: |
 |[TXT](downloads/guia-de-autodiagnostico/plantilla.txt)| [DOCX](downloads/guia-de-autodiagnostico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
 
 
