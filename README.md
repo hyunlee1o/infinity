@@ -1,3 +1,17 @@
+# Herramientas de desarrollo necesarias
+- [Just](https://github.com/casey/just?tab=readme-ov-file#packages)
+- [pandoc](https://github.com/jgm/pandoc/releases/latest)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/) Puedes usar [getnf](https://github.com/getnf/getnf) para instalar
+- Python (Para scripts)
+- markdown-toc `pip install markdown-toc`
+
+En Ubuntu 24.04 o Debian 13:
+```
+sudo apt install -m just pandoc
+curl -fsSL https://raw.githubusercontent.com/getnf/getnf/main/install.sh | bash
+getnf -i OpenDyslexic
+```
+
 # Tareas
 
 - [ ] Seleccionar un tema. Posiblemente https://www.drassil.org/git-wiki/main_page
@@ -14,7 +28,7 @@
     - [ ] Cara autista, expresión facial autista, etc
     - [ ] Explicación de co-ocurrencia entre Autismo + TDAH: mismas situaciones que se viven por diferentes rasgos, similitudes y diferencias, etc.
     - [ ] Expliar diferenciación entre sensorialidad por trauma y sensorialidad autista. EMDR.
-- [ ] Página de herramientas de desarrollo (just, pandoc, NerdFonts, linux, etc)
+- [x] Página de herramientas de desarrollo (just, pandoc, NerdFonts, linux, etc)
 - [ ]
 - [ ]
 - [ ]
