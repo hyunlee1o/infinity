@@ -61,7 +61,7 @@ Escrito por <u>hyunlee1o</u>
 
 | Enlaces  |  |  |  |
 | ---- | ----- | ---- | ---- |
-| [PDF](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.pdf) | [DOCX](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.docx) | [EPUB](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.epub) | [TXT](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnóstico/guia-de-autodiagnóstico.txt)|
+| [PDF](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | [DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | [EPUB](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | [TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
@@ -69,7 +69,7 @@ Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 
 | Enlaces |  |  |
 | :-: | :-: | :-: |
-|[TXT](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnostico/plantilla.txt)| [DOCX](https://hyunlee1o.github.io/infinity/docs/downloads/guia-de-autodiagnostico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
+|[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.txt)| [DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
 
 
 # Presentación [[Ir arriba]][1]

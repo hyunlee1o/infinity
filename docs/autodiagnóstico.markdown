@@ -8,7 +8,7 @@ permalink: /autodiagnóstico/
 1. [Recursos de autodiagnóstico](#recursos-de-autodiagnóstico)
 1. [Sesiones de apoyo al autodiagnostico](#Sesiones-de-apoyo-al-autodiagnóstico)
 
-<!-- ##  ![Logo Telegram][1] [Invitación a grupo de autodiagnóstico en Telegram](https://t.me/+_gUyw9EeUlRlZDZk)  -->
+<!-- ##  ![Logo Telegram][1] [Invitación a grupo de autodiagnóstico en Telegram]()  -->
 <!-- El grupo de Telegram de autodiagnóstico es un lugar de :speaking_head: **discusión colectiva sobre rasgos autistas** donde la gente comparte experiencias y se :people_hugging: apoya mutuamente. Entrad y comentad cualquier rasgo o experiencia que os parezca y el propio grupo os apoyará.  -->
 
 <!-- Principios del grupo: -->
@@ -23,23 +23,23 @@ permalink: /autodiagnóstico/
 # Recursos de autodiagnóstico
 ## :book: [Guía de autodiagnóstico de autismo para documentación y autoanálisis](../guia-de-autodiagnóstico). 
 Este documento es una herramienta escrita para **facilitar el autoconocimiento** y la **recopilación de todos los rasgos** "divergentes" o "autistas". 
-* :pick: :hammer: <u>**Te adueñas de tu proceso de diagnóstico**</u>: Evita depender de las conclusiones de profesionales (probablemente neurotípiques). 
-* :heavy_check_mark: :memo: <u>**Facilita los diagnósticos oficiales**</u>: Vas con los deberes hechos y además ayudará a la evaluación.
-* :brain: :battery: <u>**Requiere de menos memoria**</u>: La plantilla permite ir grabando tus pensamientos .Puede usarse incluso de "diario autista".
-* Utiliza nuestra :sparkles::spiral_notepad:[**plantilla rellenable**](guia-de-autodiagnóstico#plantillas-rellenables-para-documentación-de-rasgos-ir-arriba):sparkles: para que recopiles todos tus rasgos autistas.
+* ⛏🔨 <u>**Te adueñas de tu proceso de diagnóstico**</u>: Evita depender de las conclusiones de profesionales (probablemente neurotípiques). 
+* ✅📝 <u>**Facilita los diagnósticos oficiales**</u>: Vas con los deberes hechos y además ayudará a la evaluación.
+* 🧠🔋<u>**Requiere de menos memoria**</u>: La plantilla permite ir grabando tus pensamientos .Puede usarse incluso de "diario autista".
+* Utiliza nuestra ✨🗒 [**plantilla rellenable**](guia-de-autodiagnóstico#plantillas-rellenables-para-documentación-de-rasgos-ir-arriba)✨ para que recopiles todos tus rasgos autistas.
 
 ---
 
 ## Otros recursos
 <!-- * :link: [Articulo de la asamblea sobre crisis autistas](Recurso%3A-Referencia-sobre-crisis-autistas-y-como-ayudar) -->
-* :ballot_box_with_check: [Diversos tests sobre autismo](https://embrace-autism.com/autism-tests/)
-* :person_curly_hair: [Podcast en primera persona de experiencias de mujeres autistas adultas en castellano](https://www.rtve.es/play/audios/soy-mujer-soy-autista/):  
-Sentirse identificade con muchos de los aspectos que narran puede ser muy revelador para un autodiagnóstico
-* :movie_camera: [Videos de difusión general de Mi cerebro atípico](https://www.youtube.com/@autismomicerebroatipico8549)
-* :1234: [Diferenciar ansiedad social de autismo](https://es.wikihow.com/diferenciar-la-ansiedad-social-del-autismo)
-* :movie_camera: [Conocer la cultura autista](https://es.wikihow.com/experimentar-la-cultura-autista)
-* :nose: [Sugerencias de perfil sensorial rápido](https://sensory.semh.co.uk/) :warning: Está en :uk: inglés.
-* :infinity: [Libro de divulgación general. Muy extenso y detallado](https://autisticadvocacy.org/wp-content/uploads/2023/04/WTTAC-Spanish-Book-Interior.pdf)
+* ☑️ [Diversos tests sobre autismo](https://embrace-autism.com/autism-tests/)
+* 🧑🏽‍🦱 [Podcast en primera persona de experiencias de mujeres autistas adultas en castellano](https://www.rtve.es/play/audios/soy-mujer-soy-autista/):
+  Sentirse identificade con muchos de los aspectos que narran puede ser muy revelador para un autodiagnóstico
+* 🎥 [Videos de difusión general de Mi cerebro atípico](https://www.youtube.com/@autismomicerebroatipico8549)
+* 🔢 [Diferenciar ansiedad social de autismo](https://es.wikihow.com/diferenciar-la-ansiedad-social-del-autismo)
+* 🎥 [Conocer la cultura autista](https://es.wikihow.com/experimentar-la-cultura-autista)
+* 👃 [Sugerencias de perfil sensorial rápido](https://sensory.semh.co.uk/) :warning: Está en :uk: inglés.
+* ♾️ [Libro de divulgación general. Muy extenso y detallado](https://autisticadvocacy.org/wp-content/uploads/2023/04/WTTAC-Spanish-Book-Interior.pdf)
 
 ---
 ---
