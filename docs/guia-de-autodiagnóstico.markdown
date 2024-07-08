@@ -149,27 +149,6 @@ Los sucesos mas habituales en consultas de profesionales son:
 1. <U>Prejuicios hacia el autismo en consulta</u>:
    * Te pueden negar la posibilidad de ser autista o criticar e invalidad tu forma de ser.
    * Tengas que hacer una **busqueda extensa y tediosa** para encontrar a alguien que te escuche.
-1. <u>Te diagnostican con Pseudodiagnósticos</u>:
-1. <u>Diagnósticos erroneos</u>:
-
-Les profesionales Suelen diagnósticar en base a prejuicios. Las razones principales son negligencia aunque pueden
-confundirse con otras condiciones o transtornos. Suele pasar cuando no se hacen diagnósticos diferenciales. Es decir,
-procesos de diagnóstico donde se busca.
-
-| Abreviatura | Nombre completo | Pseudodiagnóstico o de dudoso rigor científico | Razón | Como diferenciar de autismo |
-| - | - | - | - | -  |
-| TEPT(C)     | Trastorno de Estrés Postraumático (Complejo). | No | La mayoría de autistas sufrimos TEPTC por lo que a simple vista podemos encajarles ahi. | Rasgos como la sensorialidad atípica y los elementos comunes en nuestra historia personal (antes y despues de los traumas) pueden revelar que hay cosas que no se desarrollan por traumas. | 
-| TLP         | Trastorno Limite de Personalidad. | Casi seguro | La misma que el TEPTC pero si les caemos mal a les profesionales igual nos cae esta etiqueta. | Las mismas que el TEPT(C) |
-| TDAH        | Trastorno de Déficit de Atención e Hiperactividad. | No | Les autistas tenemos muchisimas cosas en común. Somos primes-hermanes de neurodivergencia | Les TDAH tienen mas problemas para regular la dopamina y el efecto de las drogas es algo diferente que en autistas. Por lo que tengo entendido, drogas estimulantes y depresivas suelen actuar de la forma contraria. | 
-| PAS | Persona altamente sensible | Si | Se suele referir a rasgos autistas o asociados a traumas. | No hay ninguna evidencia científica que demuestre su existencia. Y en muchos casos puede resonar con personas neurotípicas. |
-| AACC | Altas capacidades | Si* | Las altas capacidades suelen ser asociadas con autistas "funcionales" y popularmente se ha creado la imagen del "genio" con rasgos autistas y particularidades. | Hay que buscar rasgos autistas que no estén relacionados con las inteligencias (capacidad de memoria, velocidad para procesar cosas intelectualmente, etc).  | 
-| - | - | - | -  | El autismo no está relacionado con la inteligencia, aunque tengamos predisposición por nuestra hiperconectividad y capacidad de fijación en detalles.  |
-| TEL         | Trastorno Especifico del Lenguaje | No | Tienen en común dificultades en el desarrollo de habilidades para usar el lenguaje. | Les autistas tenemos bastantes mas rasgos y deben investigarse para ver si salen. |
-| TGD         | Trastorno Generalizado del desarrollo | Si | Diagnóstico desfasado de autismo | Es autismo, no hay diferencia como tal. |
-| SA          | Asperger o sindrome de Asperger | Si | Diagnóstico desfasado de autismo | Es autismo pero solo para la parte del espectro autista de quienes les parecen capaces o no inutiles y no dependientes. |
-| Otros       | Trastornos esquizotípico, antisocial, de ansiedad, esquizofrenia, etc. | Por lo general no. | La gente autista puede presentar formas de aparente introversión que puede confundir a neurotípiques. Tambien se juzgan nuestros rasgos y podemos considerarlos en varios casos como insultos o minusvalorizaciones de la dimensión de nuestros problemas. | Una forma sencilla investigar todos los ragos y ver que no solo existe dificultad o transtorno en un aspecto concreto sino que hay mas cosas que no encajan en ninguna de estas categorías. Hacer una investigación exhaustiva como en esta guía puede ser muy clarificador. |
-
-Pueden haber otros pero estos son los diagnósticos erroneos mas comunes. 
 
 1. Pueden llegar a aplicar terapias que no tienen efecto e inútiles sin realmente escuchar tus necesidades.
     1. Les profesionales no suelen estar bien informados y se suelen negar a aceptar
@@ -239,6 +218,29 @@ sabrán lo que tendrán que ver. Si tus rasgos autistas no les parecen lo sufici
     considerarte autista.</u>**
 * **<u>El autodiagnóstico es válido para considerarse autista sin necesidad de profesionales.</u>**
 
+### Pseudodiagnósticos, diagnósticos erroneos o dudosos
+
+Les profesionales suelen diagnósticar en base a prejuicios. Las razones principales son negligencia aunque pueden
+confundirse con otras condiciones o transtornos. Suele pasar cuando no se hacen diagnósticos diferenciales. Es decir,
+procesos de diagnóstico donde se busca.
+
+
+| Abreviatura | Nombre completo | Pseudodiagnóstico o de dudoso rigor científico | Razón | Como diferenciar de autismo |
+| - | - | - | - | -  |
+| TEPT(C)     | Trastorno de Estrés Postraumático (Complejo). | ✅ No | La mayoría de autistas sufrimos TEPTC. | Hay que buscar rasgos que no se desarrollan por traumas. Como el perfil sensorial atípico o elementos temporalmente constantes, sobretodo comparar antes y despues de los sucesos traumaticos. | 
+| TLP         | Trastorno Limite de Personalidad. | 🚩 Casi seguro | La misma que el TEPTC pero si les caemos mal a les profesionales pueden darnos este diagnóstico. Se asocia a gente hiperreactiva a sus emociones y estímulos. | Hay que examinar los criterios diagnósticos de forma crítica y buscar rasgos no tenidos en cuenta en dicha exploración de parte de le profesionale (si es que se llegó a hacer un diagnóstico diferencial y no se usó como insulto/castigo hacia la persona). |
+| TDAH        | Trastorno de Déficit de Atención e Hiperactividad. | ✅ No | Les autistas tenemos muchisimas cosas en común. Somos primes-hermanes de neurodivergencia | Les TDAH tienen mas problemas para regular la dopamina y el efecto de las drogas es algo diferente que en autistas. Drogas estimulantes y depresivas suelen actuar de la forma contraria. Les autistas solemos tener mas dificultades de lenguaje y comunicación que les TDAH no autistas. | 
+| PAS | Persona altamente sensible | ❌ Si | Se suele referir a rasgos autistas o asociados a traumas. | No hay ninguna evidencia científica que demuestre su existencia. Y en muchos casos puede resonar con personas neurotípicas. |
+| AACC | Altas capacidades | 🚩 Si* | Las altas capacidades suelen ser asociadas con autistas "funcionales" y popularmente se ha creado la imagen del "genio" con rasgos autistas y particularidades. | Hay que buscar rasgos autistas que no estén relacionados con las inteligencias (capacidad de memoria, velocidad para procesar cosas intelectualmente, etc).  | 
+| - | - | - | -  | El autismo no está relacionado con la inteligencia, aunque tengamos predisposición por nuestra hiperconectividad y capacidad de fijación en detalles.  |
+| TEL         | Trastorno Especifico del Lenguaje | ✅ No | Tienen en común dificultades en el desarrollo de habilidades para usar el lenguaje. | Les autistas tenemos bastantes mas rasgos y deben investigarse para ver si salen. |
+| TGD         | Trastorno Generalizado del desarrollo | ❌ Si | Diagnóstico desfasado de autismo | Es autismo, no hay diferencia como tal. |
+| SA          | Asperger o sindrome de Asperger | ❌ Si | Diagnóstico desfasado de autismo | Es autismo pero solo para la parte del espectro autista de quienes les parecen capaces o no inutiles y no dependientes. |
+| Otros       | Trastornos esquizotípico, antisocial, de ansiedad, esquizofrenia, etc. | ✅ Por lo general no. | La gente autista puede presentar formas de aparente introversión que puede confundir a neurotípiques. Tambien se juzgan nuestros rasgos y podemos considerarlos en varios casos como insultos o minusvalorizaciones de la dimensión de nuestros problemas. | Una forma sencilla investigar todos los ragos y ver que no solo existe dificultad o transtorno en un aspecto concreto sino que hay mas cosas que no encajan en ninguna de estas categorías. Hacer una investigación exhaustiva como en esta guía puede ser muy clarificador. |
+
+Pueden haber otros pero estos son los diagnósticos erroneos mas comunes. 
+
+
 ### Violencias habituales en la búsqueda de diagnóstico [[Ir arriba]][1]
 
 Generalmente la violencia de este sistema y de sus seguidores en los
@@ -263,7 +265,7 @@ procedimientos de identificación y diagnóstico tiene como características:
       necesitar de hacer diferentes valoraciones de diferentes profesionales y
       tener que buscar sin parar porque sientes que no te toman en serio.
 
-  * 🤑 Los "**intermediarios**" (psicólogues, psiquiatras,
+  * 🤑 Les "**intermediaries**" (psicólogues, psiquiatras, evaluadores, 
       etc) del proceso de diagnóstico pueden llegar a **ejercer su poder**
       sobre si tienes derecho a tener adaptaciones mediante los 📝 **informes
       de diagnóstico**.
