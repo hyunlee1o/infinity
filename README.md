@@ -10,6 +10,10 @@ En Ubuntu 24.04 o Debian 13:
 sudo apt install -m just pandoc
 curl -fsSL https://raw.githubusercontent.com/getnf/getnf/main/install.sh | bash
 getnf -i OpenDyslexic
+wget https://github.com/googlefonts/atkinson-hyperlegible/archive/refs/heads/main.zip
+mkdir ~/.local/share/fonts/Atkinson
+unzip -j main.zip "atkinson-hyperlegible-main/fonts/ttf/*" -d ~/.local/share/fonts/Atkinson
+fc-cache -f -v
 ```
 
 # Tareas
