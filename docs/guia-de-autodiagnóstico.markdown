@@ -221,12 +221,21 @@ sabrán lo que tendrán que ver. Si tus rasgos autistas no les parecen lo sufici
 
 ### Pseudodiagnósticos, diagnósticos erroneos o dudosos [[Ir arriba]][1]
 
-Les profesionales suelen diagnósticar en base a prejuicios. Las razones principales son negligencia aunque pueden
-confundirse con otras condiciones o transtornos. Suele pasar cuando no se hacen diagnósticos diferenciales. Es decir,
-procesos de diagnóstico donde se busca.
+Les profesionales suelen diagnósticar en base a prejuicios. Las razones principales son ignorancia, negligencia, 
+confusión con otras condiciones o transtornos. Es necesario hacer **diagnósticos diferenciales**, son procesos de
+diagnóstico donde se buscan diferencias con otras condiciones y transtornos que se pueden parecer en algunas cosas para descartar.
 
+Sin un diagnóstico diferencial no se explora el autismo y se deja en un diagnóstico de: 
+* <u>Persona rara, estresada o traumada</u>:  (TEPTC, TLP, transtorno de ansiedad, esquizotipico, antisocial, etc) 
+* <u>Persona sensible o inteligente</u>: Se tapa el autismo mediante otras etiquetas (PAS, AACC, etc) que representan partes de nuestra personalidad o capacidad pero intentando evitar el estigma.
 
-| Abreviatura | Nombre completo | Pseudodiagnóstico o de dudoso rigor científico | Razón | Como diferenciar de autismo |
+Esto impide que la gente pueda descubrir las herramientas que usamos para obtener bienestar y mejorar nuestra calidad de vida como 
+desenmascarar, cambiar nuestro entorno social, evitar la exposición a estimulos desagradables, etc puesto que no se consideran necesarias 
+para el "tratamiento" de las otras "afecciones".
+
+En esta tabla resumimos los diagnosticos malos mas comunes:
+
+| Abreviatura | Nombre completo | Pseudodiagnóstico o de dudoso rigor científico | Razón de recibir el diagnóstico | Como diferenciar de autismo |
 | - | - | - | - | -  |
 | TEPT(C)     | Trastorno de Estrés Postraumático (Complejo). | ✅ No | La mayoría de autistas sufrimos TEPTC. | Hay que buscar rasgos que no se desarrollan por traumas. Como el perfil sensorial atípico o elementos temporalmente constantes, sobretodo comparar antes y despues de los sucesos traumaticos. | 
 | TLP         | Trastorno Limite de Personalidad. | 🚩 Casi seguro | La misma que el TEPTC pero si les caemos mal a les profesionales pueden darnos este diagnóstico. Se asocia a gente hiperreactiva a sus emociones y estímulos. | Hay que examinar los criterios diagnósticos de forma crítica y buscar rasgos no tenidos en cuenta en dicha exploración de parte de le profesionale (si es que se llegó a hacer un diagnóstico diferencial y no se usó como insulto/castigo hacia la persona). |
@@ -238,9 +247,6 @@ procesos de diagnóstico donde se busca.
 | TGD         | Trastorno Generalizado del desarrollo | ❌ Si | Diagnóstico desfasado de autismo | Es autismo, no hay diferencia como tal. |
 | SA          | Asperger o sindrome de Asperger | ❌ Si | Diagnóstico desfasado de autismo | Es autismo pero solo para la parte del espectro autista de quienes les parecen capaces o no inutiles y no dependientes. |
 | Otros       | Trastornos esquizotípico, antisocial, de ansiedad, esquizofrenia, etc. | ✅ Por lo general no. | La gente autista puede presentar formas de aparente introversión que puede confundir a neurotípiques. Tambien se juzgan nuestros rasgos y podemos considerarlos en varios casos como insultos o minusvalorizaciones de la dimensión de nuestros problemas. | Una forma sencilla investigar todos los ragos y ver que no solo existe dificultad o transtorno en un aspecto concreto sino que hay mas cosas que no encajan en ninguna de estas categorías. Hacer una investigación exhaustiva como en esta guía puede ser muy clarificador. |
-
-Pueden haber otros pero estos son los diagnósticos erroneos mas comunes. 
-
 
 ### Violencias habituales en la búsqueda de diagnóstico [[Ir arriba]][1]
 
