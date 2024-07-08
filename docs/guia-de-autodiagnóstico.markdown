@@ -18,6 +18,7 @@ permalink: /guia-de-autodiagnóstico/
     1. 📝 [Vías de (auto)diagnosticarse](#vías-de-autodiagnosticarse-ir-arriba)
     1. ❌ 👎  [Crítica a los procesos de diagnóstico
    oficiales](#crítica-a-los-procesos-de-diagnóstico-oficiales-ir-arriba)
+        1. 😢 [Pseudodiagnósticos, diagnósticos erroneos o dudosos](#pseudodiagnósticos-diagnósticos-erroneos-o-dudosos-ir-arriba)
         1. 😢 [Violencias habituales en la búsqueda de diagnóstico](#violencias-habituales-en-la-búsqueda-de-diagnóstico-ir-arriba)
         1. 👎  [Problemas habituales en procedimientos de diagnóstico oficiales](#problemas-habituales-en-procedimientos-de-diagnóstico-oficiales-ir-arriba)
         1. 👎  [Problemas de las pruebas diagnósticas](#problemas-de-las-pruebas-diagnósticas-ir-arriba)
@@ -213,12 +214,12 @@ especialmente, puesto que no suelen ser tan perceptives como nosotres ni tampoco
 sabrán lo que tendrán que ver. Si tus rasgos autistas no les parecen lo suficientemente "disruptivos" o
  estereotípicos es probable que su diagnóstico no sea correcto.
 
-⚠️ <u>Aclaración</u>
+⚠ <u>Aclaración</u>
 * **<u>No necesitas que une profesional te diagnostique para poder
     considerarte autista.</u>**
 * **<u>El autodiagnóstico es válido para considerarse autista sin necesidad de profesionales.</u>**
 
-### Pseudodiagnósticos, diagnósticos erroneos o dudosos
+### Pseudodiagnósticos, diagnósticos erroneos o dudosos [[Ir arriba]][1]
 
 Les profesionales suelen diagnósticar en base a prejuicios. Las razones principales son negligencia aunque pueden
 confundirse con otras condiciones o transtornos. Suele pasar cuando no se hacen diagnósticos diferenciales. Es decir,
