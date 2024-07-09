@@ -13,7 +13,6 @@ permalink: /guia-de-autodiagnóstico/
 1. [Presentación](#presentación-ir-arriba)
 1. [Glosario](#glosario-ir-arriba)
     1. ✔️ 🔠  [Expresiones relevantes](#expresiones-relevantes)
-    1. ♾️  [Definición de autismo](#definición-de-autismo)
     1. ❌ 📘 [Sobre el lenguaje médico](#sobre-el-lenguaje-médico)
 1. [Sobre los diagnósticos](#sobre-los-diagnósticos-ir-arriba)
     1. 📝 [Vías de (auto)diagnosticarse](#vías-de-autodiagnosticarse-ir-arriba)
@@ -104,32 +103,6 @@ Somos un colectivo con una tasa 80-96% de desempleo y que no puede permitirse pe
 | Misautismia | Discriminación contra las personas autistas. |
 | Capacitismo | Discriminación en base a las capacidades de las personas. |
 
-## Definición de autismo
-El **autismo** es una condición del neurodesarrollo que se transmite de forma genética. 
-
-Se caracteriza por un desarrollo del cerebro atípica cuya faceta mas importante es la hiperconectividad neuronal. 
-Aparte se producen diferencias notables en el 
-funcionamiento de todos sistemas del cuerpo humano: Nervioso, interoceptivo, digestivo, motor, etc.
-
-**<u>Es una discapacidad</u>** psicosocial dinámica no visible. Esto significa que: 
-* Es **una discapacidad** un castigo a nuestras capacidades por el hecho de no ser neurotípiques.
-* Es **psicosocial** porque la principal causa de discriminación es la conducta social autista.
-* Es **dinámica** porque varía según el contexto, el lugar, la energía, el tiempo, las adaptaciones y facilidades que recibamos, etc.
-* Es **invisible** o **no visible** porque no se puede saber a simple vista, o con exploraciones médicas sencillas
-  si alguien es autista sino con un análisis detallado de su comportamiento.
-
-<u>Razones</u> por las que es una discapacidad:
-
-1. Socialmente se discrimina a los cuerpos de autistas por existir. 
-   Esto incluye nuestras habilidades, capacidades y demás.
-1. Se castiga nuestra forma de existir socialmente, en una sociedad que premia la hipersocialización y 
-   unos.
-1. Muches autistas tenemos rasgos o afecciones, que pueden ser muy discapacitantes para la supervivencia y para mantener 
-   las capacidades y autonomia exigidos socialmente.
-1. La disautonomia e incapacidad para producir de la forma en la que el sistema capitalista exige, 
-   nos lleva a sufrir mas discriminación, violencia cuanto menos útiles seamos para el sistema.
-
-
 ## Sobre el lenguaje médico
 
 Se suelen hablar de las palabras para referirse a la gente autista y a sus
@@ -138,24 +111,24 @@ la patologización del autismo. Desde aquí os queremos proponer otras palabras
 para hablar de los mísmos términos o sucesos que no son capacitistas:
 
 
-| ❌  Palabra médica                                  | ✔️  Alternativa                                            |
-|:----------------------------------------------------|:----------------------------------------------------------|
-| Estereotipia                                        | *"Stimming"*, (mecanismos de) autorregulación             |
-| Comorbilidad                                        | Coocurrencia, paralelismo                                 |
-| Síntoma                                             | Rasgo                                                     |
-| Con Autismo                                         | Autista                                                   |
-| Trastorno                                           | Discapacidad, Condición                                   |
-| Déficit                                             | Dificultad                                                |
-| Riesgo                                              | Probabilidad                                              |
-| Sano                                                | Neurotípico, alista                                       |
-| Rígido, inflexible                                  | Evaluar primero si el entorno es también inflexible       |
-|                                                     | Somos inflexibles porque siempre tenemos que ceder        |
-| Alertas de autismo                                  | Signos o indicadores de autismo                           |
-| Factor de riesgo                                    | Correlación, factor de predicción                         |
-| Autista de alto/bajo funcionamiento                 | Describir características individuales y detalladas       |
-| Autismo leve/moderado/severo.                       |                                                           |
-| Prevención del autismo, reducción de los "síntomas" | Intervenciones centradas en curar coocurrencias,          |
-|                                                     | Enseñanza de habilidades a individuos                     |
+| ❌  Palabra médica | ✔️  Alternativa |
+| :---------------- | :--------------------------- |
+| Estereotipia | *"Stimming"*, (mecanismos de) autorregulación |
+| Comorbilidad | Coocurrencia, paralelismo |
+| Síntoma      | Rasgo                     |
+| Con Autismo  | Autista                   |
+| Trastorno    | Discapacidad, Condición |
+| Déficit      | Dificultad |
+| Riesgo       | Probabilidad |
+| Sano         | Neurotípico, alista | 
+| Rígido, inflexible | Evaluar primero si el entorno es también inflexible |
+|                    | Somos inflexibles porque siempre tenemos que ceder |
+| Alertas de autismo | Signos o indicadores de autismo |
+| Factor de riesgo   | Correlación, factor de predicción |
+| Autista de alto/bajo funcionamiento | Describir características individuales y detalladas|
+| Autismo leve/moderado/severo. |                                                           |
+| Prevención del autismo, reducción de los "síntomas" | Intervenciones centradas en curar coocurrencias, |
+|                                                     | Enseñanza de habilidades a individuos |
 |                                                     | Hacer un mundo mas accesible o mejorar su calidad de vida |
 
 [[Fuente de algunos de estos términos]](https://publications.aap.org/pediatrics/article/149/Supplement%204/e2020049437N/185653/First-Do-No-Harm-Suggestions-Regarding-Respectful)
@@ -256,18 +229,18 @@ Sin un diagnóstico diferencial no se explora el autismo y se deja en un diagnó
 * <u>Persona rara, estresada o traumada</u>:  (TEPTC, TLP, transtorno de ansiedad, esquizotipico, antisocial, etc) 
 * <u>Persona sensible o inteligente</u>: Se tapa el autismo mediante otras etiquetas (PAS, AACC, etc) que representan partes de nuestra personalidad o capacidad pero intentando evitar el estigma.
 
-Se suele evitar el diagnóstico de autismo por las implicaciones que tiene a nivel genético, sociales (familiares especialmente), psicológicas, etc. 
-Pero es **necesario** aceptarlo y que se acepte porque esto impide que podamos progresar y tener equidad con el resto de la sociedad. 
-Les autistas podemos progresar y mejorar nuestra calidad de vida cuando desenmascaramos, cambiamos nuestro entorno social, evitamos la exposición a estimulos desagradables, nos quitamos la culpas que hemos interiorizado por capacitismo interno, etc.
+Esto impide que la gente pueda descubrir las herramientas que usamos para obtener bienestar y mejorar nuestra calidad de vida como 
+desenmascarar, cambiar nuestro entorno social, evitar la exposición a estimulos desagradables, etc puesto que no se consideran necesarias 
+para el "tratamiento" de las otras "afecciones".
 
 En esta tabla resumimos los diagnosticos malos mas comunes:
 
 | Abreviatura | Nombre completo | Pseudodiagnóstico o de dudoso rigor científico | Razón de recibir el diagnóstico | Como diferenciar de autismo |
 | - | - | - | - | -  |
 | TEPT(C)     | Trastorno de Estrés Postraumático (Complejo). | ✅ No | La mayoría de autistas sufrimos TEPTC. | Hay que buscar rasgos que no se desarrollan por traumas. Como el perfil sensorial atípico o elementos temporalmente constantes, sobretodo comparar antes y despues de los sucesos traumaticos. | 
-| TLP         | Trastorno Limite de Personalidad. | 🚩 Casi seguro | La misma que el TEPTC pero si les caemos mal a les profesionales pueden darnos este diagnóstico.   Se asocia a gente hiperreactiva a sus emociones y estímulos. | Hay que examinar los criterios diagnósticos de forma crítica y buscar rasgos no tenidos en cuenta en dicha exploración de parte de le profesionale (si es que se llegó a hacer un diagnóstico diferencial y no se usó como insulto/castigo hacia la persona). |
+| TLP         | Trastorno Limite de Personalidad. | 🚩 Casi seguro | La misma que el TEPTC pero si les caemos mal a les profesionales pueden darnos este diagnóstico. Se asocia a gente hiperreactiva a sus emociones y estímulos. | Hay que examinar los criterios diagnósticos de forma crítica y buscar rasgos no tenidos en cuenta en dicha exploración de parte de le profesionale (si es que se llegó a hacer un diagnóstico diferencial y no se usó como insulto/castigo hacia la persona). |
 | TDAH        | Trastorno de Déficit de Atención e Hiperactividad. | ✅ No | Les autistas tenemos muchisimas cosas en común. Somos primes-hermanes de neurodivergencia | Les TDAH tienen mas problemas para regular la dopamina y el efecto de las drogas es algo diferente que en autistas. Drogas estimulantes y depresivas suelen actuar de la forma contraria. Les autistas solemos tener mas dificultades de lenguaje y comunicación que les TDAH no autistas. | 
-| PAS | Persona altamente sensible | ❌ Si | Se suele referir a rasgos autistas o asociados a traumas. | No hay ninguna evidencia científica que demuestre su existencia y en muchos casos puede resonar con personas neurotípicas. |
+| PAS | Persona altamente sensible | ❌ Si | Se suele referir a rasgos autistas o asociados a traumas. | No hay ninguna evidencia científica que demuestre su existencia. Y en muchos casos puede resonar con personas neurotípicas. |
 | AACC | Altas capacidades | 🚩 Si* | Las altas capacidades suelen ser asociadas con autistas "funcionales" y popularmente se ha creado la imagen del "genio" con rasgos autistas y particularidades. | Hay que buscar rasgos autistas que no estén relacionados con las inteligencias (capacidad de memoria, velocidad para procesar cosas intelectualmente, etc).  | 
 | - | - | - | -  | El autismo no está relacionado con la inteligencia, aunque tengamos predisposición por nuestra hiperconectividad y capacidad de fijación en detalles.  |
 | TEL         | Trastorno Especifico del Lenguaje | ✅ No | Tienen en común dificultades en el desarrollo de habilidades para usar el lenguaje. | Les autistas tenemos bastantes mas rasgos y deben investigarse para ver si salen. |
