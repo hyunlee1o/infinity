@@ -10,7 +10,7 @@ title:
 fontsize: 14pt
 number_sections: true
 mainfont:
-  - "DejaVuSans"
+  - "Atkinson Hyperlegible"
 monofont:
   - "Hack"
 emoji:

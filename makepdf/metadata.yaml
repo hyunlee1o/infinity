@@ -1,27 +1,27 @@
----
-header-includes:
-  - \usepackage{setspace}
-  - \linespread{1.5}
-  - \usepackage{fontspec}
-  - \setupexternalfigures[factor=fit]
-geometry:
-  - margin=.4in
-author: 
-  - "Colectivo de autodiagnóstico arcoiris dorado"
-title:
-  - "Guía de autodiagnóstico de autismo para documentación y autoanálisis"
-fontsize: 14pt
-number_sections: true
-mainfont:
-  - "DejaVuSans"
-emoji:
-  - noto-emoji
-emojifallback:
-  - "NotoColorEmoji:mode=harf"
-urlcolor:
-  - NavyBlue
-links-as-notes:
-  - true
-colorlinks:
-  - true
----
+# ---
+# header-includes:
+#   - \usepackage{setspace}
+#   - \linespread{1.5}
+#   - \usepackage{fontspec}
+#   - \setupexternalfigures[factor=fit]
+# geometry:
+#   - margin=.4in
+# author: 
+#   - "Colectivo de autodiagnóstico arcoiris dorado"
+# title:
+#   - "Guía de autodiagnóstico de autismo para documentación y autoanálisis"
+# fontsize: 14pt
+# number_sections: true
+# mainfont:
+#   - "DejaVuSans"
+# emoji:
+#   - noto-emoji
+# emojifallback:
+#   - "NotoColorEmoji:mode=harf"
+# urlcolor:
+#   - NavyBlue
+# links-as-notes:
+#   - true
+# colorlinks:
+#   - true
+# ---
