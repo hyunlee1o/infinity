@@ -4,51 +4,55 @@ title: Guía de autodiagnóstico
 permalink: /guia-de-autodiagnóstico/
 ---
 
+[1]: #tabla-de-contenidos
+
 # Tabla de contenidos
 
 <!-- MarkdownTOC -->
-1. [Descargas](#descargas-ir-arriba)
-    1. [Guía de autodiagnóstico](#gu%C3%ADa-de-autodiagn%C3%B3stico-ir-arriba)
-    1. [Plantillas rellenables](#plantillas-rellenables-para-documentación-de-rasgos)
-1. [Presentación](#presentación-ir-arriba)
-1. [Glosario](#glosario-ir-arriba)
+1. [Tabla de contenidos](#tabla-de-contenidos)
+1. ⬇️[Descargas](#descargas)
+    1. 📖[Guía de autodiagnóstico](#guía-de-autodiagnóstico)
+    1. 📄✍🏽[Plantillas rellenables para documentación de rasgos](#plantillas-rellenables-para-documentación-de-rasgos)
+1. [Presentación](#presentación)
+1. [Glosario](#glosario)
     1. ✔️ 🔠  [Expresiones relevantes](#expresiones-relevantes)
     1. ♾️  [Definición de autismo](#definición-de-autismo)
     1. ❌ 📘 [Sobre el lenguaje médico](#sobre-el-lenguaje-médico)
-1. [Sobre los diagnósticos](#sobre-los-diagnósticos-ir-arriba)
-    1. 📝 [Vías de (auto)diagnosticarse](#vías-de-autodiagnosticarse-ir-arriba)
-    1. ❌ 👎  [Crítica a los procesos de diagnóstico
-   oficiales](#crítica-a-los-procesos-de-diagnóstico-oficiales-ir-arriba)
-        1. 😢 [Pseudodiagnósticos, diagnósticos erroneos o dudosos](#pseudodiagnósticos-diagnósticos-erroneos-o-dudosos-ir-arriba)
-        1. 😢 [Violencias habituales en la búsqueda de diagnóstico](#violencias-habituales-en-la-búsqueda-de-diagnóstico-ir-arriba)
-        1. 👎  [Problemas habituales en procedimientos de diagnóstico oficiales](#problemas-habituales-en-procedimientos-de-diagnóstico-oficiales-ir-arriba)
-        1. 👎  [Problemas de las pruebas diagnósticas](#problemas-de-las-pruebas-diagnósticas-ir-arriba)
+1. [Sobre los diagnósticos](#sobre-los-diagnósticos)
+    1. 📝 [Vías de (auto)diagnosticarse](#vías-de-autodiagnosticarse)
+    1. ❌ 👎  [Crítica a los procesos de diagnóstico oficiales](#crítica-a-los-procesos-de-diagnóstico-oficiales)
+        1. 😢 [Pseudodiagnósticos, diagnósticos erroneos o dudosos](#pseudodiagnósticos-diagnósticos-erroneos-o-dudosos)
+        1. 😢 [Violencias habituales en la búsqueda de diagnóstico](#violencias-habituales-en-la-búsqueda-de-diagnóstico)
+        1. 👎  [Problemas habituales en procedimientos de diagnóstico oficiales](#problemas-habituales-en-procedimientos-de-diagnóstico-oficiales)
+        1. 👎  [Problemas de las pruebas diagnósticas](#problemas-de-las-pruebas-diagnósticas)
         1. 👍 [Ventajas del autodiagnóstico documentado](#ventajas-del-autodiagn%C3%B3stico-documentado)
-1. [Planteamiento y objetivo de la guía](#planteamiento-y-objetivo-de-la-guía-ir-arriba)
+1. [Instrucciones para la plantilla de autodiagnóstico](#instrucciones-para-la-plantilla-de-autodiagnóstico)
+    1. 👍 [Ventajas de rellenar la plantilla de autodiagnóstico](#ventajas-de-rellenar-la-plantilla-de-autodiagnóstico)
     1. 📄 [¿Como rellenar la plantilla de autodiagnóstico?](#como-rellenar-la-plantilla-de-autodiagnóstico)
     1. 🤔 [¿Como evaluar nuestros rasgos?](#como-evaluar-nuestros-rasgos)
     1. 🫵 [¿Quien debe rellenar la plantilla de autodiagnóstico?](#quien-debe-rellenar-la-plantilla-de-autodiagnóstico)
-    1. 👍 [Ventajas de rellenar la plantilla de autodiagnóstico](#ventajas-de-rellenar-la-plantilla-de-autodiagnóstico)
-1. [Apartados](#apartados-ir-arriba)
-    1. 👥  [Socialización y comunicación atípica](#socialización-y-comunicación-atípica-ir-arriba)
-        1. 🫂 [Reciprocidad socio-emocional, empatía y alexitimia](#reciprocidad-socio-emocional-empatía-y-alexitimia-ir-arriba)
-        1. 🧏 [Formas de comunicación no convencionales](#formas-de-comunicación-no-convencionales-ir-arriba)
-        1. 🗣️ [Dificultades en las relaciones sociales](#dificultad-en-las-relaciones-sociales-ir-arriba)
-    1. 🔁  ♾️ [Comportamientos atípicos y actividades restrictivas/repetitivas](#comportamientos-atípicos-y-actividades-restrictivasrepetitivas-ir-arriba)
-        1. 🎮 [Autoestimulación / "Stimming"](#autoestimulación--stimming-ir-arriba)
-        1. ♾️ [Rígidez y patrones de pensamiento](#comportamiento-rígido-y-patrones-de-pensamiento-atípicos-ir-arriba)
-        1. 🔊 🔁 [Ecolalias](#ecolalias-ir-arriba)
-        1. 🦖 [Intereses especiales](#intereses-especiales-ir-arriba)
-        1. 💤🔋 [Disfuncionalidad ejecutiva y/o funcionalidad atípica](#disfuncionalidad-ejecutiva-yo-funcionalidad-atípica-ir-arriba)
-        1. 😷😶‍🌫️ [Enmascaramiento/*"Masking"*](#enmascaramientomasking-ir-arriba)
-        1. 🔁 [Compulsiones y TOCs](#compulsiones-y-tocs-ir-arriba)
-	1. Otros
-        1. 🏳️‍🌈 [Disidencias](#disidencias-respecto-a-convenciones-sociales-ir-arriba)
-        1. 🧨 👃 [Sensorialidad Atípica](#sensorialidad-atípica-ir-arriba)
-        1. 💊 [Enfermedades, trastornos y condiciones conocidos](#enfermedades-trastornos-y-condiciones-conocidos-ir-arriba)
-    1. 🧒 [Rasgos en la infancia/desarrollo](#rasgos-en-la-infanciadesarrollo-ir-arriba)
-    1. 😩  [Efectos en la vida diaria](#efectos-en-la-vida-diaria-ir-arriba)
-    1. [Otros](#otros-ir-arriba)
+1. [Rasgos autistas](#rasgos-autistas)
+    1. 👥  [Socialización y comunicación atípica](#socialización-y-comunicación-atípica)
+        1. 🫂 [Reciprocidad socio-emocional, empatía y alexitimia](#reciprocidad-socio-emocional-empatía-y-alexitimia)
+        1. 🧏 [Formas de comunicación no convencionales](#formas-de-comunicación-no-convencionales)
+        1. 🗣️ [Dificultades en las relaciones sociales](#dificultad-en-las-relaciones-sociales)
+    1. 🔁  ♾️ [Comportamientos atípicos y actividades restrictivas/repetitivas](#comportamientos-atípicos-y-actividades-restrictivasrepetitivas)
+        1. 🎮 [Autoestimulación / "Stimming"](#autoestimulación--stimming)
+        1. ♾️ [Rígidez y patrones de pensamiento](#comportamiento-rígido-y-patrones-de-pensamiento-atípicos)
+        1. 🔊 🔁 [Ecolalias](#ecolalias)
+        1. 🦖 [Intereses especiales](#intereses-especiales)
+        1. 💤🔋 [Disfuncionalidad ejecutiva y/o funcionalidad atípica](#disfuncionalidad-ejecutiva-yo-funcionalidad-atípica)
+        1. 😷😶‍🌫️ [Enmascaramiento/*"Masking"*](#enmascaramientomasking)
+        1. 🔁 [Compulsiones y TOCs](#compulsiones-y-tocs)
+	1. [Otros rasgos autistas](#otros-rasgos-autistas)
+        1. 🏳️‍🌈 [Disidencias](#disidencias-respecto-a-convenciones-sociales)
+        1. 🧨 👃 [Sensorialidad Atípica](#sensorialidad-atípica)
+        1. 💊 [Enfermedades, trastornos y condiciones conocidos](#enfermedades-trastornos-y-condiciones-conocidos)
+        1. 🧒 [Rasgos en la infancia/desarrollo](#rasgos-en-la-infanciadesarrollo)
+		1. 📅👪 [Efectos en la vida diaria](#efectos-en-la-vida-diaria)
+		1. 🪡🧰 [Cajón de sastre](#cajón-de-sastre)
+1. 📓 [Plantilla de rasgos para copia pega](#plantilla-de-rasgos-para-copia-pega)
+
 <!-- /MarkdownTOC -->
 
 ---
@@ -57,13 +61,13 @@ Escrito por <u>hyunlee1o</u>
 
 ---
 
-# Descargas [[Ir arriba]][1]
+# Descargas 
 
 ## Guía de autodiagnóstico
 
 | Enlaces  |  |  |  |
 | ---- | ----- | ---- | ---- |
-| [PDF](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | [DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | [EPUB](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | [TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
+| 🔗[PDF](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
@@ -71,10 +75,13 @@ Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 
 | Enlaces |  |  |
 | :-: | :-: | :-: |
-|[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.txt)| [DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.docx) | [Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega-ir-arriba) |
+|🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.txt)| 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.docx) | 🔗[Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega) |
 
+⬆[[Volver a la tabla de contenidos][1]]⬆
 
-# Presentación [[Ir arriba]][1]
+---
+
+# Presentación 
 
 Si has llegado hasta aquí con la intención de buscar respuestas significa que hay una **probabilidad altísima de que seas autista**. Esta guía fue creada con la idea de facilitar el autodiagnóstico y creemos que os puede ayudar mucho, especialmente si no sabéis por dónde empezar. Creemos que cualquier persona puede decidir si es autista o no sin necesidad de que otra gente opine al respecto. El proceso de diagnosticarse como autista en la mayoría de los casos no es tan simple como sentarse durante horas frente a profesionales y esperar que con eso baste, sino la persona interesada debe implicarse muy activamente para que se le perciba correctamente. Por eso hemos creado esta guía para **facilitaros la vida** y que tengáis información actualizada, fiable y compilada **<u>por autistas y para autistas</u>**.
 
@@ -91,7 +98,11 @@ Actualmente autodiagnosticarse es un infierno para mucha gente porque no existen
 
 Somos un colectivo con una tasa 80-96% de desempleo y que no puede permitirse perder más autonomía por el alto grado de intromisión, capacitismo y maltrato que existe por parte del sistema capitalista y sus instituciones (familias, editoriales, profesionales de la mente, gobiernos, alistas *influencers*, etc.) a toda la gente neurodivergente y/o discapacitada. Esta guía es una respuesta a eso.
 
-# Glosario [[Ir arriba]][1]
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
+---
+
+# Glosario 
 
 ## Expresiones relevantes
 
@@ -138,7 +149,7 @@ la patologización del autismo. Desde aquí os queremos proponer otras palabras
 para hablar de los mísmos términos o sucesos que no son capacitistas:
 
 
-| ❌  Palabra médica                                  | ✔️  Alternativa                                            |
+| ❌  Palabra médica                                  | ✔  Alternativa                                            |
 |:----------------------------------------------------|:----------------------------------------------------------|
 | Estereotipia                                        | *"Stimming"*, (mecanismos de) autorregulación             |
 | Comorbilidad                                        | Coocurrencia, paralelismo                                 |
@@ -160,9 +171,14 @@ para hablar de los mísmos términos o sucesos que no son capacitistas:
 
 [[Fuente de algunos de estos términos]](https://publications.aap.org/pediatrics/article/149/Supplement%204/e2020049437N/185653/First-Do-No-Harm-Suggestions-Regarding-Respectful)
 
-# Sobre los diagnósticos [[Ir arriba]][1]
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
 
-## Vías de (auto)diagnosticarse [[Ir arriba]][1]
+---
+
+
+# Sobre los diagnósticos 
+
+## Vías de (auto)diagnosticarse 
 
 Lo más importante, el diagnóstico oficial pasando por el sistema médico NO ES NECESARIO para poder considerarte autista.
 
@@ -189,7 +205,7 @@ Los sucesos mas habituales en consultas de profesionales son:
  
 1. Si consigues que te hagan el proceso diagnóstico, es probable que sufras
 mucha violencia. Mas abajo tenemos 👎 🧑‍🔬 nuestro [análisis de las violencias
-recibidas](#violencias-habituales-en-la-búsqueda-de-diagnóstico-ir-arriba) respecto
+recibidas](#violencias-habituales-en-la-búsqueda-de-diagnóstico) respecto
 a los procesos de diagnóstico "oficial".
 
 ### 2. 🟡🤓 Autodiagnósticarte con autistas de referencia
@@ -220,11 +236,14 @@ lo deseas).
 
 Nuestra idea es ofrecerte una manera autónoma de buscar respuestas que no requiera de tantísima burocracia,
 energía, más fiable y por supuesto **<u>gratis</u>**. Está descrita mas
-abajo en la sección [Planteamiento y objetivo de la guía](#planteamiento-y-objetivo-de-la-guía-ir-arriba).
+abajo en la sección [Instrucciones para la plantilla de autodiagnóstico](#instrucciones-para-la-plantilla-de-autodiagnóstico).
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
 
 ---
 
-## Crítica a los procesos de diagnóstico oficiales [[Ir arriba]][1]
+
+## Crítica a los procesos de diagnóstico oficiales 
 >
 > Casi todo está mal.
 
@@ -246,7 +265,7 @@ sabrán lo que tendrán que ver. Si tus rasgos autistas no les parecen lo sufici
     considerarte autista.</u>**
 * **<u>El autodiagnóstico es válido para considerarse autista sin necesidad de profesionales.</u>**
 
-### Pseudodiagnósticos, diagnósticos erroneos o dudosos [[Ir arriba]][1]
+### Pseudodiagnósticos, diagnósticos erroneos o dudosos 
 
 Les profesionales suelen diagnósticar en base a prejuicios. Las razones principales son ignorancia, negligencia, 
 confusión con otras condiciones o transtornos. Es necesario hacer **diagnósticos diferenciales**, son procesos de
@@ -275,7 +294,11 @@ En esta tabla resumimos los diagnosticos malos mas comunes:
 | SA          | Asperger o sindrome de Asperger | ❌ Si | Diagnóstico desfasado de autismo | Es autismo pero solo para la parte del espectro autista de quienes les parecen capaces o no inutiles y no dependientes. |
 | Otros       | Trastornos esquizotípico, antisocial, de ansiedad, esquizofrenia, etc. | ✅ Por lo general no. | La gente autista puede presentar formas de aparente introversión que puede confundir a neurotípiques. Tambien se juzgan nuestros rasgos y podemos considerarlos en varios casos como insultos o minusvalorizaciones de la dimensión de nuestros problemas. | Una forma sencilla investigar todos los ragos y ver que no solo existe dificultad o transtorno en un aspecto concreto sino que hay mas cosas que no encajan en ninguna de estas categorías. Hacer una investigación exhaustiva como en esta guía puede ser muy clarificador. |
 
-### Violencias habituales en la búsqueda de diagnóstico [[Ir arriba]][1]
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
+---
+
+### Violencias habituales en la búsqueda de diagnóstico 
 
 Generalmente la violencia de este sistema y de sus seguidores en los
 procedimientos de identificación y diagnóstico tiene como características:
@@ -338,7 +361,11 @@ procedimientos de identificación y diagnóstico tiene como características:
 
 * 😵‍💫 Te crean **traumas** en el proceso de diagnóstico por los puntos anteriores.
 
-### Problemas habituales en procedimientos de diagnóstico oficiales [[Ir arriba]][1]
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
+---
+
+### Problemas habituales en procedimientos de diagnóstico oficiales 
 * ❌  🤫 **<u>Ambiente poco adecuado</u>**
   > Se enmascara durante el propio proceso.
 
@@ -378,7 +405,11 @@ procedimientos de identificación y diagnóstico tiene como características:
   rellenan los huecos de su mala memoria con su percepción subjetiva actual o
   pasada de sus hijes.
 
-### Problemas de las pruebas diagnósticas [[Ir arriba]][1]
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
+---
+
+### Problemas de las pruebas diagnósticas 
 
  Las pruebas que se utilizan para diagnosticar no te clasifiquen como
  autista. Les alistas que hacen diagnósticos y las pruebas diagnósticas (como el
@@ -390,9 +421,9 @@ procedimientos de identificación y diagnóstico tiene como características:
 
   Las pruebas diagnósticas no se usan como indicadores sino que intentan
   ponerle un número a la "cantidad del autismo", que es ya de por sí difícil de
-  cuantificar. Puedes ver por qué es incorrecto en la siguiente imagen [(Ver
+  cuantificar. Puedes ver por qué es incorrecto en la siguiente imagen 🔗[(Ver
   imagen 1 abajo)](#imagen-1). Estas pruebas reducen el autismo a un sistema de
-  puntos. Son atajos acientíficos, es decir que no siguen el [método
+  puntos. Son atajos acientíficos, es decir que no siguen el 🔗[método
   científico](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico), puesto ni su eficacia ni sus resultados son del todo
   verificables. Opino que generalmente son atajos acientíficos para neurotípiques con baja capacidad de
   percepción y poca sensibilidad hacia los rasgos autistas. Por otra parte, las que se usan habitualmente (ADOS-2, etc)
@@ -410,6 +441,10 @@ procedimientos de identificación y diagnóstico tiene como características:
   * Las pruebas no son suficientemente sensibles a todo el espectro autista.
   * No se utilizan los métodos correctos que evitar los falsos positivos y negativos.
 
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
+---
+
 ### Ventajas del autodiagnóstico documentado
 
 * ✔ 🧑‍🔬 **<u>Científico</u>**
@@ -419,7 +454,7 @@ procedimientos de identificación y diagnóstico tiene como características:
   **verificada, discutida y observada** por nuestro entorno. Si practicamos la
   autoobservación y autopercepción durante un tiempo podremos documentar de
   forma mucho más objetiva nuestros rasgos autistas. Desde esta guía se propone
-  un procedimiento que sigue el [método
+  un procedimiento que sigue el 🔗[método
   científico](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico).
   
 * ✔️🗣️ **<u>Permite la discusión. Diagnóstico
@@ -444,7 +479,7 @@ procedimientos de identificación y diagnóstico tiene como características:
 * ✔💪 **<u>Autosuficiencia para diagnósticarse</u>**
 
   El método que se propone en esta guía es rellenar la plantilla adjunta en la
-  [**sección de descargas**](#Descargas). Creemos que puede ahorrarte muchos trámites y
+  🔗[**sección de descargas**](#Descargas). Creemos que puede ahorrarte muchos trámites y
   también de hacer múltiples sesiones de diagnóstico. Se hace mucho más evidente
   y claro que eres neurodivergente cuando has documentado todos tus rasgos. Esta
   guía te sirve para documentar todas tus “dificultades”, necesidades y patrones
@@ -462,15 +497,45 @@ procedimientos de identificación y diagnóstico tiene como características:
 
 ![](assets/guia-de-autodiagnóstico/espectro-autista-no-lineal.jpeg)
 #### Imagen 1
-Fuente: [@NEURODIVERLETRAS ÂÛ](https://www.facebook.com/neurodiverletrasau) | [Imagen traducida](https://www.facebook.com/neurodiverletrasau/photos/pb.100063575712237.-2207520000../791956375569110/?type=3) | [Autism_sketches](https://www.instagram.com/autism_sketches/) | [Imagen original](https://www.instagram.com/p/Cb2ykmTM0TN/)
+Fuente: 🔗[@NEURODIVERLETRAS ÂÛ](https://www.facebook.com/neurodiverletrasau) | 🔗[Imagen traducida](https://www.facebook.com/neurodiverletrasau/photos/pb.100063575712237.-2207520000../791956375569110/?type=3) | 🔗[Autism_sketches](https://www.instagram.com/autism_sketches/) | 🔗[Imagen original](https://www.instagram.com/p/Cb2ykmTM0TN/)
 
-# Planteamiento y objetivo de la guía [[Ir arriba]][1]
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
+---
+
+# Instrucciones para la plantilla de autodiagnóstico 
 
 Desde esta guía proponemos que para mejorar el proceso de diagnóstico, la mejor
 manera es documentar **todos los rasgos** que se puedan interpretar como
 "**divergentes a la norma**", **neurodivergentes** y **autistas**. Para
 documentarlos se proporciona una plantilla que debe ser rellenada extensamente
 para poder explicar tus dinámicas personales.
+
+## Ventajas de rellenar la plantilla de autodiagnóstico
+
+El autodiagnóstico de autismo de forma documentada es mucho más eficaz y mejor por las siguientes razones:
+
+* Lo **mas importante** es que ayuda al autoconocimiento y te **<u>la propiedad  y el control de su proceso</u>**
+  de autodescubrimiento como autista. Una plantilla de autodiagnóstico rellena y detallada, 
+  implica que posees un gran autoconocimiento de tus rasgos autistas (y de tu mente en general). Esto te va a permitir,
+  saber que necesitas y que deberías cambiar para mejorar tu calidad de vida.
+* Si vas a hacer un diagnóstico "oficial", en la fase de entrevista clínica 
+  ayuda a responder a las preguntas relacionadas con tus memorias. 
+  Es buena idea si te cuesta recordar eventos pasados o borrados/ocultos.
+* La documentación que hagamos de nuestros rasgos y divergencias puede llegar a
+  ser incluso **mejor que la de una entrevista clínica**. Solemos documentar 
+  de forma mucho mas concreta, extensa, profunda y sobretodo **fiel a nuestra realidad**.
+
+## ¿Quien debe rellenar la plantilla de autodiagnóstico?
+
+Dado que esta plantilla está orientada a personas adultas que sospechan que
+pueden ser autistas. La tiene que rellenar **la persona que va a
+diagnosticarse**. Es también importante que se impliquen y colaboren personas de
+confianza pero siempre bajo la supervisión la persona sobre la que se investiga.
+Es importante que refleje la realidad de esta persona y no tanto las
+percepciones ajenas puesto que pueden llevar a conclusiones erróneas y dar
+información falsa.
 
 ## ¿Como rellenar la plantilla de autodiagnóstico?
 
@@ -517,36 +582,17 @@ nuestra observación tiene suficientes indicios de que hay grandes divergencias
 con respecto a los de la **norma social** y cuadran con suficientes rasgos
 autistas,  nuestras observaciones deberían ser considerados válidas para poder considerarse autista.
 
-## ¿Quien debe rellenar la plantilla de autodiagnóstico?
-
-Dado que esta plantilla está orientada a personas adultas que sospechan que
-pueden ser autistas. La tiene que rellenar **la persona que va a
-diagnosticarse**. Es también importante que se impliquen y colaboren personas de
-confianza pero siempre bajo la supervisión la persona sobre la que se investiga.
-Es importante que refleje la realidad de esta persona y no tanto las
-percepciones ajenas puesto que pueden llevar a conclusiones erróneas y dar
-información falsa.
-
-## Ventajas de rellenar la plantilla de autodiagnóstico
-
-El diagnóstico de autismo es mucho más eficaz y mejor por las siguientes razones:
-
-* La plantilla rellena proporciona a la persona que se diagnóstica **<u>la
-  propiedad  y el control de su proceso</u>**
-* En una entrevista clínica ayuda a responder a las preguntas sin necesidad de
-pensar o de recordar eventos pasados o borrados/ocultos.
-* La documentación que hagamos de nuestros rasgos y divergencias puede llegar a
-ser  incluso **mejor que la de una entrevista clínica** bien larga y
-profunda. Nosotres  podemos documentar de forma mucho mas
-concreta, extensa, profunda y sobretodo **fiel a nuestra realidad**.
 
 ![The autistic spectrum](assets/guia-de-autodiagnóstico/the-autism-spectrum.png)
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-# **Apartados** [[Ir arriba]][1]
+# Rasgos autistas
 
-## Socialización y comunicación atípica [[Ir arriba]][1]
+## Socialización y comunicación atípica 
 >
 > Todo lo que sea de relacionarse con gente.
   
@@ -557,7 +603,7 @@ relacionales. Familia, conocidos, extraños, grupos de interacción social inten
 
 ---
 
-### Reciprocidad socio-emocional, empatía y alexitimia [[Ir arriba]][1]
+### Reciprocidad socio-emocional, empatía y alexitimia 
 >
 > ¿Te cuesta mucho saber qué sientes?
 > Y ¿saber lo que sienten les demás?
@@ -577,7 +623,7 @@ de ayudar a les demás**.  Hacemos un esfuerzo consciente para entender y ayudar
 la mejor manera a les demás,  solemos dar información relevante o mecanismos que
 a nosotres nos sirven  para resolver dicho sufrimiento; somos pragmátiques.
 
-ℹ️ **<u>Ejemplos</u>**:
+ℹ **<u>Ejemplos</u>**:
 
 * Quedarse bloqueades ante una situación, no reaccionar de forma emocional ante una situación (conflictiva, triste, etc.), no contagiarse de la emoción, **preguntarnos qué deberíamos sentir en la situación** o plantearnos de qué manera deberíamos demostrar nuestras emociones (consolar, enfadarnos, ignorar, etc.).
 * Usar un **“manual mental”** para saber qué hacer en cada caso según se presente cada emoción ajena o cada patrón de comunicación y frustrarse cuando las cosas no salen según los “manuales”.
@@ -627,7 +673,7 @@ autistas nos cuesta poner  remedio a nuestras necesidades (fisiológicas y emoci
 ##### **<u>Causas de la alexitimia</u>**
 
 1. 🧠 **Saturación por exceso de información sensorial**: La **alexitimia
-    fisiológica** se produce cuando nuestro [**sistema interoceptivo**](#sistema-interoceptivo) (o **sentido de la
+    fisiológica** se produce cuando nuestro 🔗[**sistema interoceptivo**](#sistema-interoceptivo) (o **sentido de la
     interocepción**) nos satura el cerebro de información sensorial.
     Podemos tardar mas tiempo en procesarla y entender que nos pasa.
 
@@ -669,7 +715,7 @@ Los tipos de receptores captan:
 * 🤕 Dolor
 * 🫀 Estado de cada órgano del cuerpo
 
-Se puede encontrar mas información en la wikipedia en [inglés](https://en.wikipedia.org/wiki/Interoception), [español](https://es.wikipedia.org/wiki/Funci%C3%B3n_interoceptiva) y [catalán](https://ca.wikipedia.org/wiki/Interocepci%C3%B3).
+Se puede encontrar mas información en la wikipedia en 🔗[inglés](https://en.wikipedia.org/wiki/Interoception), 🔗[español](https://es.wikipedia.org/wiki/Funci%C3%B3n_interoceptiva) y 🔗[catalán](https://ca.wikipedia.org/wiki/Interocepci%C3%B3).
 
 ---
 
@@ -685,8 +731,12 @@ Se puede encontrar mas información en la wikipedia en [inglés](https://en.wiki
   * Alexitimia emocional
   * Alexitimia fisiológica
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
-### Formas de comunicación no convencionales [[Ir arriba]][1]
+
+### Formas de comunicación no convencionales 
 Uno de los rasgos mas asociados con el autismo es nuestra forma de
 comunicarnos. Es de los rasgos mas llamativos para la gente que nos observa. El
 autismo se suele asociar con una supuesta dificultad en el lenguaje tanto verbal como no
@@ -735,7 +785,7 @@ accesibles y mas sencillas de interpretar bien.
 * Agresiones
 
 
-#### Comunicación verbal [[Ir arriba]][1]
+#### Comunicación verbal 
 
 ℹ️ **<u>Ejemplos</u>**:
 * Habla monótona
@@ -747,7 +797,7 @@ accesibles y mas sencillas de interpretar bien.
 	* Dificultad para ordenar eventos
 	* Problemas para procesar correctamente sonidos/fonética
 
-#### Comunicación no verbal [[Ir arriba]][1]
+#### Comunicación no verbal 
 >
 > Tengo una comunicación muy diferente de la alista que mola mucho, les parece muy rara a les neurotípiques.
 
@@ -766,7 +816,7 @@ A pesar de que es visto de forma negativa comunicarse de formas no
 convencionales, es una parte muy importante de nuestra
 personalidad y nuestra identidad que hay que cuidar y conocer.
 
-ℹ️ **<u>Ejemplos</u>**:
+ℹ **<u>Ejemplos</u>**:
 
 * No mirar a directamente a los ojos de otra persona
 * No usar gestos o usarlos excesivamente
@@ -783,9 +833,12 @@ personalidad y nuestra identidad que hay que cuidar y conocer.
 autodiagnóstico** se deberían incluir los patrones atípicos que divergen de lo
 que se considera una comunicación “natural” según parámetros neurotípicos.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-### Dificultades en las relaciones sociales [[Ir arriba]][1]
+### Dificultades en las relaciones sociales 
 >
 > Las dinámicas de grupo autistas son raras para alistas y estamos aquí para demostrarlo.
 
@@ -839,13 +892,16 @@ porque pueden ser muy agotadoras para una persona autista y de ahí la
 teoría/metáfora de las cucharas de azúcar diarias. Hay actividades sociales o
 personas  que pueden consumir la energía social muy rápido o, por el contrario, pueden ayudar a conservar o generar esa energía.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-## Comportamientos y actividades restrictivas/repetitivas [[Ir arriba]][1]
+## Comportamientos y actividades restrictivas/repetitivas 
 >
 > Relacionarse con une misme
 
-### Autoestimulación / *"Stimming"* [[Ir arriba]][1]
+### Autoestimulación / *"Stimming"* 
 
 Toda actividad de autoestimulación que se produce cuando necesitas autorregulación. Puede ir desde movimientos del cuerpo tanto en una silla, de pie como tumbade. Las personas autistas se autoestimulan cuando no existe un plan a seguir y no hay una concentración total sobre este, como cuando durante un plan que requiere bastante concentración hay capacidad mental y necesidad de estimularse.
 
@@ -858,9 +914,12 @@ Toda actividad de autoestimulación que se produce cuando necesitas autorregulac
 * Zapear entre diferentes webs (por ejemplo: redes sociales, juegos, etc.) o canales de multimedia.
 * Moverse al ritmo de la música
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-### Comportamientos atípicos y actividades restrictivas/repetitivas [[Ir arriba]][1]
+### Comportamientos atípicos y actividades restrictivas/repetitivas 
 >
 > Funciono A -\> B -\> C porque siempre me funciona y me cuesta no hacerlo.
 
@@ -880,7 +939,7 @@ el mundo suele ser también inflexible, exclusivista, etc y dicha rigidez puede
 darnos paz mental y sensación de control. La gente autista se suele aislar en micromundos cerrados,
 donde tienen un cierto control. Nos puede costar salir de ellos o cambiar esos mundos. 
 
-ℹ️ **<u>Ejemplos de patrones autistas</u>**:
+ℹ **<u>Ejemplos de patrones autistas</u>**:
 
 * La literalidad en la comunicación
 * La hiperfuncionalidad ejecutiva o la disfuncionalidad ejecutiva, dependiendo del contexto
@@ -906,9 +965,12 @@ estos comportamientos. Es de las partes que requiere más reflexión y autoobser
 Sería bueno que explicaras que es lo que compone *tu pequeño mundo* o *micromundo* y cómo
 interactúas con el mundo exterior.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-### Ecolalias [[Ir arriba]][1]
+### Ecolalias 
 
 Generalmente consiste en la repetición de palabras de forma sistemática. Se
 podría decir que es un "eco" respecto a alguna frase o elemento por parte de la
@@ -956,9 +1018,12 @@ automática para satisfacer las demandas de respuesta de le interlocutore.
 * Cuando una palabra te suena graciosa o chula la repites como saboreándola, o haces con ella una canción.
 * Dar una respuesta parecida siempre a la de tu interlocutore para seguir el juego. Como responder a un sticker con otro del mismo pack, un gif en respuesta a otro gif, básicamente como haciendo eco.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-### Intereses especiales [[Ir arriba]][1]
+### Intereses especiales 
 >
 > Tengo temas que me emocionan y me llenan pero a la gente alista la parece raro. ¿Que está pasando?
 
@@ -983,7 +1048,7 @@ podemos hacer grandes aportes a raíz de esta capacidad).
 Lo más importante es que sea un tema que nos llame la atención sin
 importar la capacidad que tengamos para dominarlo.
 
-ℹ️ **<u>Ejemplos</u>**: Gente se decora la casa de forma muy bizarra siguiendo ciertos
+ℹ **<u>Ejemplos</u>**: Gente se decora la casa de forma muy bizarra siguiendo ciertos
 patrones o temas. Una prenda de ropa concreta.
 
 Pueden ser temas muy amplios, como política, ética, filosofía, arte,
@@ -1019,9 +1084,12 @@ compartes con elles tus intereses.
 tienen la misma intensidad que el resto de personas. *¿Has tenido algún grupo de
 intereses especiales en que participe gente neurotípica?*
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-### Disfuncionalidad ejecutiva y/o funcionalidad atípica [[Ir arriba]][1]
+### Disfuncionalidad ejecutiva y/o funcionalidad atípica 
 >
 > Se me da muy bien hacer este patrón A -\> B -\> C y encima tengo hiperfijación, así que “hiperfunciono”.
 > Pero se me da muy mal hacer este otro C -\> A -\> D -\> B, ayuda, me atasco y me "hipercuesta".
@@ -1033,7 +1101,7 @@ de verdad una diferencia de capacidad y funcionamiento, qué clase de estrategia
 ayudan a funcionar mejor, qué tareas o interacciones pueden provocar disfunción
 o incapacidad.
 
-ℹ️ **<u>Ejemplos</u>**:
+ℹ **<u>Ejemplos</u>**:
 
 * A altas horas de la noche, tras haber despejado mi cabeza de socializar
   durante el día, soy capaz de hacer escritos y guías de autodiagnóstico de
@@ -1046,9 +1114,12 @@ o incapacidad.
 * Si me mandan tareas nuevas que no conozco, o que me disgustan, tardo muchísimo
   más tiempo.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-### Enmascaramiento/Masking [[Ir arriba]][1]
+### Enmascaramiento/Masking 
 >
 > Ocultar tus cosas autistas al resto para poder sobrevivir.
 
@@ -1061,10 +1132,13 @@ Por lo general, toda persona neurodivergente tiene que utilizar estrategias para
 * Tener memorizadas las fórmulas y establecer un protocolo para relacionarse con gente neurotípica.
 * Notar que necesitas descansos después de tener una interacción larga con gente al haber usado tu energía haciendo “masking” y sentirse muy aliviade cuando puedes dejar de hacerlo.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
 
-### Compulsiones y TOCs [[Ir arriba]][1]
+### Compulsiones y TOCs 
 
 Las **compulsiones** son comportamientos muy repetitivos. Esto puede empeorar 
 la calidad de vida de la persona. No tienen un objetivo claro y pueden surgir 
@@ -1099,9 +1173,13 @@ No somos juguetes rotos, no necesitamos arreglo salvo que decidamos **por nuestr
 trabajar para arreglar aquellos comportamientos que nos angustian, sabotean, etc.
 
 
-## Otros
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
 
-### Disidencias respecto a convenciones sociales [[Ir arriba]][1]
+---
+
+## Otros rasgos autistas
+
+### Disidencias respecto a convenciones sociales 
 >
 > La gente autista tiende a ser o muy progre o muy conservadora
 
@@ -1110,15 +1188,15 @@ todos los aspectos que se consideran disidentes en la manera en la que
 está organizada la sociedad.
 
 Aspectos que me parecen disidentes:
-* No ser capitalista
-* No ser individualista, pensar en el bien común y buscar la justicia
-* No ser cisgénero o no asumir como natural el género impuesto
-* Formar parte del colectivo LGTBIAQ+
+* No ser *capitalista*
+* No ser *individualista*, pensar en el bien común y buscar la justicia
+* No ser cisgénero o *no asumir* como natural el *género impuesto*
+* Ser queer/formar parte del colectivo LGTBIAQ+.
 * Tener una relación poco normativa con la sexualidad.
 * No ser una persona religiosa o ser antirreligiosa. También tener una religión o modelo de creencias alternativa a tu medida. (Paganismo, etc.)
 * Estar en contra de la monogamia o no entenderla como algo natural
-* Ser vegane
-* Ser amable y honeste por sistema
+* Ser vegane.
+* Ser amable y honeste por sistema.
 * No tomar drogas de forma recreativa (Discutible)
 
 Hay un sector de la gente autista que, por el contrario, es bastante
@@ -1130,8 +1208,11 @@ convenciones sociales y siguen siendo autistas con sus rasgos y dificultades.
 autodiagnóstico habría que hacer una lista de las maneras en las que diverges
 de las convenciones sociales.
 
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
 
-### Sensorialidad atípica [[Ir arriba]][1]
+---
+
+### Sensorialidad atípica 
 >
 > Sácame de aquí. Hay demasiada luz, ruido, olores, sabores, texturas, etc.
 
@@ -1150,12 +1231,12 @@ una **sobrecarga sensorial** que es una de las causas mas comunes de las crisis
 autistas ("burnout", "shutdown", "meltdown", etc).
 en neurodivergentes.
 
-    ℹ️ <u>Ejemplo</u>: Sufrir de misofonía con 🧨 explosiones de petardos,
+    ℹ <u>Ejemplo</u>: Sufrir de misofonía con 🧨 explosiones de petardos,
 ladridos, maquinaria, etc.
 
 * **<u>Hiposensibilidad</u>**: No reaccionamos a los estímulos.
 
-    ℹ️ <u>Ejemplos</u>: No tener (muchas) cosquillas. No sentir dolor en ciertos casos.
+    ℹ <u>Ejemplos</u>: No tener (muchas) cosquillas. No sentir dolor en ciertos casos.
 
 #### ¿Como descubrir tus hipersensibilidades?
 
@@ -1163,34 +1244,35 @@ Hay que estudiar los ocho sentidos y pensar en tu respuesta a los estímulos.
 Piensa en si son desagradables/molestos, agradables/satisfactorios o si
 simplemente son atípicos:
 
-* 👀 **Vista**: Luces intensas, parpadeantes, cálidas o frías, según tiempo de
-      exposición, etc.
-* 👅 **Gusto**: Sabores intensos o suaves, temperaturas, textura, etc. Incluye
-      morder objetos.
-* ✋ **Tacto**: Texturas.
-* 👃 **Olfato**: Mucha necesidad de higiene. Olor de perfumes, comida, gasolina, etc.
-* 👂 **Oído**: Música, ruido y sus intermedios. Ruidos muy leves.
-* ⚖🤹 **Vestibular**: El equilibrio general. Sensaciones al
-      estar en vehículos u objetos en movimiento.
-* 🧠 **Interocepción**: La [alexitimia](#alexitimia) y funcionalidad atípica del resto del [sistema interoceptivo](#sistema-interoceptivo).
-* 💪 👯 **Propiocepción**: La forma de moverte, aplicar
-  fuerza o colocarte. Podemos tener posturas
-  atípicas, tener dificultad para hacer movimientos delicados, tener
-  malos reflejos. Hay que mirar reacciones atípicas y la forma de controlar
-  todas nuestras articulaciones.
+| Sentido | Cosas a fijarse |
+| :-: | :-: |
+| 👀 **Vista**| Luces intensas, parpadeantes, cálidas o frías, según tiempo de exposición, etc. |
+| 👅 **Gusto**| Sabores intensos o suaves, temperaturas, textura, etc. Incluye morder objetos. |
+| ✋ **Tacto**| Texturas |
+| 👃 **Olfato**| Mucha necesidad de higiene. Olor de perfumes, comida, gasolina, etc. |
+| 👂 **Oído**| Música, ruido y sus intermedios. Ruidos muy leves. |
+| ⚖🤹 **Vestibular**| El equilibrio general. Sensaciones al estar en vehículos u objetos en movimiento. |
+| 🧠 **Interocepción**| La 🔗[alexitimia](#alexitimia) y funcionalidad atípica del resto del 🔗[sistema interoceptivo](#sistema-interoceptivo) |
+| 💪 👯 **Propiocepción**| La forma de moverte, aplicar fuerza o colocarte. Podemos tener posturas atípicas, tener dificultad para hacer movimientos delicados, tener  malos reflejos. Hay que mirar reacciones atípicas y la forma de controlar todas nuestras articulaciones. |
 
 #### Otras cosas relevantes a tener en cuenta:
 
-* Aparte de molestia o satisfacción también puede haber una **búsqueda de
-  estímulos o experiencias sensoriales**. Es natural que para conseguir placer:
-    1. Con una hiposensibilidad se suba la intensidad del estímulo
-    2. Con una hipersensibilidad se baje la intensidad de este
+* Perfiles de **<u>búscadore o evitadore<u/>** de estímulos y experiencias sensoriales** .
+  Les autistas se suelen repartir en dos tipos:
+    1. Si eres **hiposensible** a algún estímulo busques estímulos **mas intensos**.
+    2. Si eres **hipersensible** a algún estímulo busques estímulos **menos intensos**.
+  Nadie suele ser hiper o hiposensible de forma absoluta así que es **fluido y fluctuante**, 
+  por lo que no podemos encajar a nadie siempre en **buscadore** o **evitadore** de estímulos.
 
-  ℹ **Ejemplo**: En la comunidad se comenta mucho sobre autistas que
-  prefieren la comida sin sal ni apenas especias, lo menos sabrosa posible y
-  otres que la prefieren lo mas intensa, picante y sabrosa posible.
-  
-* Aparte, entre la gente autista existen quienes pueden sentir la
+  ℹ **Ejemplos**: 
+  * En la comunidad hay un tópico de dos tipos de autistas: Les primeres 
+	prefieren la comida sin sal ni apenas especias, lo mas suave posible y
+	les segundes la prefieren lo mas intensa, picante y sabrosa posible.
+  * Personas que escuchan musica constantemente y que evitan el silencio pero son muy hipersensibles
+	a las texturas y evitan el contacto con las que les son desagradable. 
+	Esto sería un ejemplo buscadore y evitadore de estímulos
+      
+* **<u>La sinestesia Aparte</u>**, entre la gente autista existen quienes pueden sentir la
   **sinestesia**. Se produce cuando un estímulo afecta a varios sentidos a la
   vez de forma involuntaria que cambia en la forma en la que se percibe un estímulo.
 
@@ -1209,9 +1291,12 @@ opciones:
 2. Hacer pequeños experimentos con tus sentidos para probar.
 3. Recopilar por tu cuenta lo que creas conveniente.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-### Enfermedades, trastornos y condiciones conocidos [[Ir arriba]][1]
+### Enfermedades, trastornos y condiciones conocidos 
 
 > Tengo enfermedades que parecen "normales" pero en realidad son posibles rasgos autistas.
 
@@ -1235,9 +1320,12 @@ autismo.
 enfermedades, trastornos y condiciones y si puedes, luego enlazarnos con el
 autismo.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-## Rasgos en la infancia/desarrollo [[Ir arriba]][1]
+### Rasgos en la infancia/desarrollo 
 >
 > Recuerdos tuyos y de familiares y gente cercana del pasado.
 
@@ -1247,7 +1335,7 @@ Es totalmente normal tener ciertas habilidades (alistas) trabajadas o ciertos ra
 
 Comúnmente lo que aporta la familia, tutores, orientadores, pediatras, etc.; a los procesos de diagnóstico son sus recuerdos e impresiones sobre tu comportamiento durante la vida. Sería conveniente que mientras estás identificando tus rasgos autistas repasaras tus recuerdos del pasado para que veas cómo has cambiado o lo que has aprendido en el proceso. Probablemente hayas aprendido a manejarte mucho en entornos alistas y ahora se te haya olvidado que quizá en el pasado no lo tenias tan fácil o tuviste una época donde tenías problemas al respecto. Sería conveniente que hicieras entrevistas a tus familiares y otras personas de tu pasado para preguntarles sobre esto. Especialmente a tus figuras de apego cercano y gente que haya estado **atenta de verdad** a lo que te ha ido pasando en la vida y a tus dificultades pasadas.
 
-⚠️ No recomiendo llevar a tus familiares u otras personas del pasado a un proceso de diagnóstico en los siguientes casos:
+⚠ No recomiendo llevar a tus familiares u otras personas del pasado a un proceso de diagnóstico en los siguientes casos:
 
 * **NO** han prestado atención durante tu desarrollo
 * Son hostiles a un posible diagnóstico de autismo
@@ -1255,26 +1343,35 @@ Comúnmente lo que aporta la familia, tutores, orientadores, pediatras, etc.; a 
 
 Si cumplen cualquiera de los puntos anteriores, estate alerta. En un proceso de diagnóstico oficial podrían hacer más mal que bien. Por poner una analogía, es como llevar a un mal testigo a un juicio. Recomiendo que les hagas la entrevista antes de ir a diagnóstico y que incluyas sus aportaciones en la plantilla de rasgos autistas.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-## Efectos en la vida diaria [[Ir arriba]][1]
+### Efectos en la vida diaria 
 >
 > Cuanto crees que te afectan no ser alguien normativo en la vida.
 
 Aquí habría que hacer un recorrido por los rasgos que puedas reconocer en tu línea vital y explicar cuáles son los efectos de la disrupción de ser autista o básicamente divergente, especialmente en un mundo hecho por y para gente neurotípica. Pueden surgir muchos problemas, como, por ejemplo, dificultad para relacionarse excepto quizá con gente neurodivergente, problemas para conseguir trabajo (estable), problemas familiares, malestar general interno (problemas de estrés, depresión, etc.).
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
-## Otros [[Ir arriba]][1]
+### Cajón de sastre
 >
 > Borrador o cosas que no sepas dónde poner
 
 Aquí entraría todo lo que no consigas poner en ninguna categoría de las anteriores pero creas que realmente es un rasgo autista o es una parte importante de tu vivencia como persona autista. Puedes usarlo de borrador para reorganizarlo luego en donde veas conveniente.
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
 
-### Plantilla de rasgos para copia pega [[Ir arriba]][1]
+## Plantilla de rasgos para copia pega 
 
 
 ```
@@ -1336,15 +1433,15 @@ Aquí entraría todo lo que no consigas poner en ninguna categoría de las anter
     * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
 
     * * * * * * * * * *   FINAL   * * * * * * * * * *              
------------------------------------------------------------
-4.  🧒 Rasgos en la infancia/desarrollo
------------------------------------------------------------
+    4.  🧒 Rasgos en la infancia/desarrollo
     * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
 
     * * * * * * * * * *   FINAL   * * * * * * * * * *              
------------------------------------------------------------
-5.  😩 Efectos en la vida diaria
------------------------------------------------------------
+	5.  📅👪 Efectos en la vida diaria
+    * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
+
+    * * * * * * * * * *   FINAL   * * * * * * * * * *              
+	6.  🪡🧰Cajón de sastre
     * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
 
     * * * * * * * * * *   FINAL   * * * * * * * * * *              
@@ -1352,9 +1449,10 @@ Aquí entraría todo lo que no consigas poner en ninguna categoría de las anter
 -----------------------------------------------------------
 ```
 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
 ---
 
 © 2022-2024. Este documento está licenciado a Creative Commons con una
-licencia [**<u>CC BY-NC-SA</u>**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-[1]: #tabla-de-contenidos
+licencia 🔗[**<u>CC BY-NC-SA</u>**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
