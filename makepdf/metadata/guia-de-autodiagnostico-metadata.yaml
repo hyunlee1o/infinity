@@ -1,22 +1,23 @@
 ---
+documentclass: report
 header-includes:
   - \usepackage{fontspec}
+  - \usepackage{extsizes}
   - \setupexternalfigures[factor=fit]
-  - margin=0.5cm
+  # - margin=-3cm
+# lang: es-ES
 author: 
   - "Colectivo de autodiagnóstico arcoiris dorado"
 title:
   - "Guía de autodiagnóstico de autismo para documentación y autoanálisis"
 fontsize: 14pt
 number_sections: true
-mainfont:
-  - "Atkinson Hyperlegible"
-monofont:
-  - "Hack"
-emoji:
-  - "NotoColorEmoji"
-emojifallback:
-  - "NotoColorEmoji:mode=harf"
+# fonts
+mainfont: "Atkinson Hyperlegible"
+sansfont: "Atkinson Hyperlegible"
+monofont: "Hack"
+emoji: "NotoColorEmoji"
+emojifallback: "NotoColorEmoji:mode=harf"
 urlcolor:
   - NavyBlue
 links-as-notes:

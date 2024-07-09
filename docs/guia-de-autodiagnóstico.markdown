@@ -25,7 +25,7 @@ permalink: /guia-de-autodiagnóstico/
         1. 😢 [Violencias habituales en la búsqueda de diagnóstico](#violencias-habituales-en-la-búsqueda-de-diagnóstico)
         1. 👎  [Problemas habituales en procedimientos de diagnóstico oficiales](#problemas-habituales-en-procedimientos-de-diagnóstico-oficiales)
         1. 👎  [Problemas de las pruebas diagnósticas](#problemas-de-las-pruebas-diagnósticas)
-        1. 👍 [Ventajas del autodiagnóstico documentado](#ventajas-del-autodiagn%C3%B3stico-documentado)
+        1. 👍 [Ventajas del autodiagnóstico documentado](#ventajas-del-autodiagnóstico-documentado)
 1. [Instrucciones para la plantilla de autodiagnóstico](#instrucciones-para-la-plantilla-de-autodiagnóstico)
     1. 👍 [Ventajas de rellenar la plantilla de autodiagnóstico](#ventajas-de-rellenar-la-plantilla-de-autodiagnóstico)
     1. 📄 [¿Como rellenar la plantilla de autodiagnóstico?](#como-rellenar-la-plantilla-de-autodiagnóstico)
@@ -35,10 +35,10 @@ permalink: /guia-de-autodiagnóstico/
     1. 👥  [Socialización y comunicación atípica](#socialización-y-comunicación-atípica)
         1. 🫂 [Reciprocidad socio-emocional, empatía y alexitimia](#reciprocidad-socio-emocional-empatía-y-alexitimia)
         1. 🧏 [Formas de comunicación no convencionales](#formas-de-comunicación-no-convencionales)
-        1. 🗣️ [Dificultades en las relaciones sociales](#dificultad-en-las-relaciones-sociales)
-    1. 🔁  ♾️ [Comportamientos atípicos y actividades restrictivas/repetitivas](#comportamientos-atípicos-y-actividades-restrictivasrepetitivas)
-        1. 🎮 [Autoestimulación / "Stimming"](#autoestimulación--stimming)
-        1. ♾️ [Rígidez y patrones de pensamiento](#comportamiento-rígido-y-patrones-de-pensamiento-atípicos)
+        1. 🗣️ [Dificultades en las relaciones sociales](#dificultades-en-las-relaciones-sociales)
+    1. ♾️ [Comportamientos atípicos y actividades restrictivas/repetitivas](#comportamientos-atípicos-y-actividades-restrictivasrepetitivas)
+        1. 🎮 [Comportamientos y patrones de pensamiento típicos](#comportamientos-y-patrones-de-pensamiento-típicos)
+        1. 🦖 [Autoestimulación/"Stimming"](#autoestimulaciónstimming)
         1. 🔊 🔁 [Ecolalias](#ecolalias)
         1. 🦖 [Intereses especiales](#intereses-especiales)
         1. 💤🔋 [Disfuncionalidad ejecutiva y/o funcionalidad atípica](#disfuncionalidad-ejecutiva-yo-funcionalidad-atípica)
@@ -150,7 +150,7 @@ para hablar de los mísmos términos o sucesos que no son capacitistas:
 
 
 | ❌  Palabra médica                                  | ✔  Alternativa                                            |
-|:----------------------------------------------------|:----------------------------------------------------------|
+|:-|:-|
 | Estereotipia                                        | *"Stimming"*, (mecanismos de) autorregulación             |
 | Comorbilidad                                        | Coocurrencia, paralelismo                                 |
 | Síntoma                                             | Rasgo                                                     |
@@ -165,9 +165,7 @@ para hablar de los mísmos términos o sucesos que no son capacitistas:
 | Factor de riesgo                                    | Correlación, factor de predicción                         |
 | Autista de alto/bajo funcionamiento                 | Describir características individuales y detalladas       |
 | Autismo leve/moderado/severo.                       |                                                           |
-| Prevención del autismo, reducción de los "síntomas" | Intervenciones centradas en curar coocurrencias,          |
-|                                                     | Enseñanza de habilidades a individuos                     |
-|                                                     | Hacer un mundo mas accesible o mejorar su calidad de vida |
+| Prevención del autismo, reducción de los "síntomas" | Intervenciones centradas en curar coocurrencias, enseñanza de habilidades a individuos, hacer un mundo mas accesible o mejorar su calidad de vida |
 
 [[Fuente de algunos de estos términos]](https://publications.aap.org/pediatrics/article/149/Supplement%204/e2020049437N/185653/First-Do-No-Harm-Suggestions-Regarding-Respectful)
 
@@ -479,7 +477,7 @@ procedimientos de identificación y diagnóstico tiene como características:
 * ✔💪 **<u>Autosuficiencia para diagnósticarse</u>**
 
   El método que se propone en esta guía es rellenar la plantilla adjunta en la
-  🔗[**sección de descargas**](#Descargas). Creemos que puede ahorrarte muchos trámites y
+  🔗**[sección de descargas](#descargas)**. Creemos que puede ahorrarte muchos trámites y
   también de hacer múltiples sesiones de diagnóstico. Se hace mucho más evidente
   y claro que eres neurodivergente cuando has documentado todos tus rasgos. Esta
   guía te sirve para documentar todas tus “dificultades”, necesidades y patrones
@@ -897,29 +895,12 @@ personas  que pueden consumir la energía social muy rápido o, por el contrario
 
 ---
 
-## Comportamientos y actividades restrictivas/repetitivas 
+## Comportamientos atípicos y actividades restrictivas/repetitivas 
 >
 > Relacionarse con une misme
 
-### Autoestimulación / *"Stimming"* 
 
-Toda actividad de autoestimulación que se produce cuando necesitas autorregulación. Puede ir desde movimientos del cuerpo tanto en una silla, de pie como tumbade. Las personas autistas se autoestimulan cuando no existe un plan a seguir y no hay una concentración total sobre este, como cuando durante un plan que requiere bastante concentración hay capacidad mental y necesidad de estimularse.
-
-ℹ️ **<u>Ejemplos</u>**:
-
-* Manipular objetos con las manos (bolis, juguetes, etc.)
-* Andar por una habitación cuando llevas mucho tiempo sentade, tensionar los músculos, morderte los mofletes, crujirte los huesos, mover la lengua de forma repetitiva, moverse hacia los lados, reclinarse en la silla, masturbarse.
-* Hacer juegos mentales como búsqueda de patrones o contar números.
-* Autoestimularse hasta embotar los sentidos en algunos contextos y, unido a la procrastinación intensiva, cuando no se ve une capaz de hacer acciones difíciles o costosas.
-* Zapear entre diferentes webs (por ejemplo: redes sociales, juegos, etc.) o canales de multimedia.
-* Moverse al ritmo de la música
-
-
-⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
-
----
-
-### Comportamientos atípicos y actividades restrictivas/repetitivas 
+### Comportamientos y patrones de pensamiento típicos
 >
 > Funciono A -\> B -\> C porque siempre me funciona y me cuesta no hacerlo.
 
@@ -964,6 +945,24 @@ autistas. Analiza tus necesidades y piensa en las razones por las que tienes
 estos comportamientos. Es de las partes que requiere más reflexión y autoobservación.
 Sería bueno que explicaras que es lo que compone *tu pequeño mundo* o *micromundo* y cómo
 interactúas con el mundo exterior.
+
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+
+---
+
+### Autoestimulación/"Stimming"
+
+Toda actividad de autoestimulación que se produce cuando necesitas autorregulación. Puede ir desde movimientos del cuerpo tanto en una silla, de pie como tumbade. Las personas autistas se autoestimulan cuando no existe un plan a seguir y no hay una concentración total sobre este, como cuando durante un plan que requiere bastante concentración hay capacidad mental y necesidad de estimularse.
+
+ℹ️ **<u>Ejemplos</u>**:
+
+* Manipular objetos con las manos (bolis, juguetes, etc.)
+* Andar por una habitación cuando llevas mucho tiempo sentade, tensionar los músculos, morderte los mofletes, crujirte los huesos, mover la lengua de forma repetitiva, moverse hacia los lados, reclinarse en la silla, masturbarse.
+* Hacer juegos mentales como búsqueda de patrones o contar números.
+* Autoestimularse hasta embotar los sentidos en algunos contextos y, unido a la procrastinación intensiva, cuando no se ve une capaz de hacer acciones difíciles o costosas.
+* Zapear entre diferentes webs (por ejemplo: redes sociales, juegos, etc.) o canales de multimedia.
+* Moverse al ritmo de la música
 
 
 ⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
@@ -1244,16 +1243,16 @@ Hay que estudiar los ocho sentidos y pensar en tu respuesta a los estímulos.
 Piensa en si son desagradables/molestos, agradables/satisfactorios o si
 simplemente son atípicos:
 
-| Sentido | Cosas a fijarse |
-| :-: | :-: |
-| 👀 **Vista**| Luces intensas, parpadeantes, cálidas o frías, según tiempo de exposición, etc. |
-| 👅 **Gusto**| Sabores intensos o suaves, temperaturas, textura, etc. Incluye morder objetos. |
-| ✋ **Tacto**| Texturas |
+| Sentido | Estímulos que se propone analizar |
+| - | ---- |
+| 👀 **Vista** | Luces intensas, parpadeantes, cálidas o frías, según tiempo de exposición, etc. |
+| 👅 **Gusto** | Sabores intensos o suaves, temperaturas, textura, etc. Incluye morder objetos. |
+| ✋ **Tacto** | Texturas. |
 | 👃 **Olfato**| Mucha necesidad de higiene. Olor de perfumes, comida, gasolina, etc. |
-| 👂 **Oído**| Música, ruido y sus intermedios. Ruidos muy leves. |
-| ⚖🤹 **Vestibular**| El equilibrio general. Sensaciones al estar en vehículos u objetos en movimiento. |
-| 🧠 **Interocepción**| La 🔗[alexitimia](#alexitimia) y funcionalidad atípica del resto del 🔗[sistema interoceptivo](#sistema-interoceptivo) |
-| 💪 👯 **Propiocepción**| La forma de moverte, aplicar fuerza o colocarte. Podemos tener posturas atípicas, tener dificultad para hacer movimientos delicados, tener  malos reflejos. Hay que mirar reacciones atípicas y la forma de controlar todas nuestras articulaciones. |
+| 👂 **Oído** | Música, ruido y sus intermedios. Ruidos muy leves. |
+| ⚖🤹 **Vestibular** | El equilibrio general. Sensaciones al estar en vehículos u objetos en movimiento. |
+| 🧠 **Interocepción** | La 🔗[alexitimia](#alexitimia) y funcionalidad atípica del resto del 🔗[sistema interoceptivo](#sistema-interoceptivo). |
+| 💪 👯 **Propiocepción** | La forma de moverte, aplicar fuerza o colocarte. Podemos tener posturas atípicas, tener dificultad para hacer movimientos delicados, tener  malos reflejos. Hay que mirar reacciones atípicas y la forma de controlar todas nuestras articulaciones. |
 
 #### Otras cosas relevantes a tener en cuenta:
 
@@ -1385,17 +1384,17 @@ Aquí entraría todo lo que no consigas poner en ninguna categoría de las anter
     * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
 
     * * * * * * * * * *   FINAL   * * * * * * * * * *              
-    3.  🗣 Dificultades en las relaciones sociales
+    3.  🗣️ Dificultades en las relaciones sociales
     * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
 
     * * * * * * * * * *   FINAL   * * * * * * * * * *              
 2.  🔁 ♾️ Comportamientos atípicos y actividades restrictivas/repetitivas
 -----------------------------------------------------------
-    1.  🎮 Autoestimulación / "Stimming"
+    1.  ♾️ Comportamientos y patrones de pensamiento típicos
     * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
 
     * * * * * * * * * *   FINAL   * * * * * * * * * *              
-    2.  ♾️ Rígidez y patrones de pensamiento
+    2.  🎮 Autoestimulación / "Stimming"
     * * * * * * * * * * PRINCIPIO * * * * * * * * * *              
 
     * * * * * * * * * *   FINAL   * * * * * * * * * *              
