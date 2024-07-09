@@ -7,7 +7,7 @@
 
 En Ubuntu 24.04 o Debian 13:
 ```
-sudo apt install -m just pandoc
+sudo apt install -m just pandoc texlive-lang-spanish
 curl -fsSL https://raw.githubusercontent.com/getnf/getnf/main/install.sh | bash
 getnf -i OpenDyslexic
 wget https://github.com/googlefonts/atkinson-hyperlegible/archive/refs/heads/main.zip
