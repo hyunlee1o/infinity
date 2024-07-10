@@ -1,5 +1,5 @@
 #!/usr/bin/env just --justfile
-PANDOC_OPTIONS := '-C --embed-resources --number-sections --listings -H ' + CWD + '/preamble.tex'
+PANDOC_OPTIONS := '--embed-resources --number-sections --listings -H ' + CWD + '/preamble.tex'
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
 PANDOC_TXT_OPTIONS := ""
