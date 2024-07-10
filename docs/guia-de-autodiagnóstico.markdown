@@ -1,7 +1,7 @@
 ---
 <!-- layout: page -->
 title: Guía de autodiagnóstico
-permalink: /guia-de-autodiagnóstico/
+<!-- permalink: /guia-de-autodiagnóstico/ -->
 ---
 
 [1]: #tabla-de-contenidos
@@ -19,7 +19,7 @@ permalink: /guia-de-autodiagnóstico/
     1. ♾️  [Definición de autismo](#definición-de-autismo)
     1. ❌ 📘 [Sobre el lenguaje médico](#sobre-el-lenguaje-médico)
 1. [Sobre los diagnósticos](#sobre-los-diagnósticos)
-    1. 📝 [Vías de (auto)diagnosticarse](#vías-de-autodiagnosticarse)
+    1. 📝 [Vías para (auto)diagnosticarse](#vías-para-autodiagnosticarse)
     1. ❌ 👎  [Crítica a los procesos de diagnóstico oficiales](#crítica-a-los-procesos-de-diagnóstico-oficiales)
         1. 😢 [Pseudodiagnósticos, diagnósticos erroneos o dudosos](#pseudodiagnósticos-diagnósticos-erroneos-o-dudosos)
         1. 😢 [Violencias habituales en la búsqueda de diagnóstico](#violencias-habituales-en-la-búsqueda-de-diagnóstico)
@@ -122,19 +122,32 @@ Se caracteriza por un desarrollo del cerebro atípica cuya faceta mas importante
 Aparte se producen diferencias notables en el 
 funcionamiento de todos sistemas del cuerpo humano: Nervioso, interoceptivo, digestivo, motor, etc.
 
-**<u>Es una discapacidad</u>** psicosocial dinámica no visible. Esto significa que: 
-* Es **una discapacidad** un castigo a nuestras capacidades por el hecho de no ser neurotípiques.
-* Es **psicosocial** porque la principal causa de discriminación es la conducta social autista.
+### El autismo es una discapacidad
+La **discapacidad** es toda condición humana que presenta barreras para participar en sociedad de forma equitativa.
+Hay muchos tipos de discapacidad: Física, orgánica, sensorial, 
+
+El autismo es una **<u>discapacidad dinámica no visible</u>** que además es muy heterogénea porque puede entrar en multiples tipos. 
+
 * Es **dinámica** porque varía según el contexto, el lugar, la energía, el tiempo, las adaptaciones y facilidades que recibamos, etc.
 * Es **invisible** o **no visible** porque no se puede saber a simple vista, o con exploraciones médicas sencillas
   si alguien es autista sino con un análisis detallado de su comportamiento.
+* <u>Tipos de discapacidades a los que pertenece. En orden de relevancia:</u>:
+	* Es **psicosocial** porque la principal causa de discriminación es la conducta social autista.
+	  Se nos dificulta existir en una sociedad hecha para neurotípiques por su falta de consideración hacia otras realidades.
+	* Es **sensorial** porque es muy habitual que nuestros sentidos nos incapaciten en muchas situaciones por exceso de ruidos, luces, etc.
+	* Es **social y contextual**: Porque generalmente sufrimos maltrato por nuestro contexto y nos incapacita.
+	* Es **orgánica** porque los procesos fisiologicos y neurologicos autistas pueden incapacitarnos mas que a neurotípiques.
+	* Es **física** porque es habitual que nuestras capacidades físicas/motrices nos puedan incapacitar o dificultar el movimiento.
+	
+Aunque no se reconozca como tal, el autismo es incapacitante de diferentes maneras en diferentes categorías y no se debe
+minusvalorar las que se salgan del tipo mas común.
 
 <u>Razones</u> por las que es una discapacidad:
 
 1. Socialmente se discrimina a los cuerpos de autistas por existir. 
    Esto incluye nuestras habilidades, capacidades y demás.
-1. Se castiga nuestra forma de existir socialmente, en una sociedad que premia la hipersocialización y 
-   unos.
+1. Se castiga nuestra forma de existir socialmente, en una sociedad que premia la hipersocialización y castiga 
+   nuestros mecanismos de autorregulación.
 1. Muches autistas tenemos rasgos o afecciones, que pueden ser muy discapacitantes para la supervivencia y para mantener 
    las capacidades y autonomia exigidos socialmente.
 1. La disautonomia e incapacidad para producir de la forma en la que el sistema capitalista exige, 
@@ -176,7 +189,7 @@ para hablar de los mísmos términos o sucesos que no son capacitistas:
 
 # Sobre los diagnósticos 
 
-## Vías de (auto)diagnosticarse 
+## Vías para (auto)diagnosticarse 
 
 Lo más importante, el diagnóstico oficial pasando por el sistema médico NO ES NECESARIO para poder considerarte autista.
 
