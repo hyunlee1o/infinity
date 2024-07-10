@@ -17,6 +17,7 @@ title: Guía de autodiagnóstico
 1. [Glosario](#glosario)
     1. ✔️ 🔠  [Expresiones relevantes](#expresiones-relevantes)
     1. ♾️  [Definición de autismo](#definición-de-autismo)
+       1. 🌻 [El autismo es una discapacidad](#el-autismo-es-una-discapacidad)
     1. ❌ 📘 [Sobre el lenguaje médico](#sobre-el-lenguaje-médico)
 1. [Sobre los diagnósticos](#sobre-los-diagnósticos)
     1. 📝 [Vías para (auto)diagnosticarse](#vías-para-autodiagnosticarse)
