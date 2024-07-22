@@ -19,6 +19,7 @@ title: Guía de autodiagnóstico
     1. ♾️  [Definición de autismo](#definición-de-autismo)
        1. 🌻 [El autismo es una discapacidad](#el-autismo-es-una-discapacidad)
     1. ❌ 📘 [Sobre el lenguaje médico](#sobre-el-lenguaje-médico)
+	1. 🔍⚕️ [Sobre el término autodiagnóstico](#sobre-el-término-autodiagnóstico)
 1. [Sobre los diagnósticos](#sobre-los-diagnósticos)
     1. 📝 [Vías para (auto)diagnosticarse](#vías-para-autodiagnosticarse)
     1. ❌ 👎  [Crítica a los procesos de diagnóstico oficiales](#crítica-a-los-procesos-de-diagnóstico-oficiales)
@@ -112,9 +113,11 @@ Somos un colectivo con una tasa 80-96% de desempleo y que no puede permitirse pe
 | "Stimming" | Autoestimulación, cosas que hacen les neurodivergentes para autorregularse |
 | NT o Neurotípique/o/a | Tu cerebro es normativo. Gente que no es neurodivergente. |
 | ND o Neurodivergente| Tu cerebro es diferente a lo normativo.<br/>Puede ser por desarrollo por tus circunstancias vitales o por genética. |
-| Alista | No autista.<br/>Incluye personas neurodivergentes que no son autistas y a personas neurotípicas. |
+| Alista | No autista. Incluye personas neurodivergentes que no son autistas y a personas neurotípicas. |
 | Misautismia | Discriminación contra las personas autistas. |
 | Capacitismo | Discriminación en base a las capacidades de las personas. |
+| Pseudodiagnóstico | Diagnóstico no basado en evidencia científica. |
+| Misdiagnóstico | Diagnóstico errado. |
 
 ## Definición de autismo
 El **autismo** es una condición del neurodesarrollo que se transmite de forma genética. 
@@ -159,8 +162,8 @@ minusvalorar las que se salgan del tipo mas común.
 
 Se suelen hablar de las palabras para referirse a la gente autista y a sus
 rasgos en términos médicos. Esto es malo por varias razones pero la principal es
-la patologización del autismo. Desde aquí os queremos proponer otras palabras
-para hablar de los mísmos términos o sucesos que no son capacitistas:
+la **patologización** del autismo. Desde aquí os queremos proponer otras palabras y expresiones
+que no son capacitistas:
 
 
 | ❌  Palabra médica                                  | ✔  Alternativa                                            |
@@ -182,6 +185,93 @@ para hablar de los mísmos términos o sucesos que no son capacitistas:
 | Prevención del autismo, reducción de los "síntomas" | Intervenciones centradas en curar coocurrencias, enseñanza de habilidades a individuos, hacer un mundo mas accesible o mejorar su calidad de vida |
 
 [[Fuente de algunos de estos términos]](https://publications.aap.org/pediatrics/article/149/Supplement%204/e2020049437N/185653/First-Do-No-Harm-Suggestions-Regarding-Respectful)
+
+## Sobre el término autodiagnóstico
+
+El problema del autodiagnóstico tiene dos dimensiones:
+
+1. El uso de los términos.
+2. La desautorización del sistema médico como única autoridad.
+
+**<u>¿Es necesario buscar otro término para hablar del proceso de autodiagnóstico?</u>**
+
+No lo creo, por lo siguiente:
+
+El autodiagnóstico tiene dos fases principales:
+
+1. La recogida y analisis de datos
+2. El autodiagnóstico como tal.
+
+Acudiendo a una institución muy capacitista (la RAE), nos va a servir para llegar 
+a la conclusión de que es **<u>totalmente legítimo</u>** el uso del
+término **autodiagnóstico** en vez de usar cualquier otra alternativa en Español.
+
+Diagnóstico según el diccionario de la RAE en su segunda acepción dice así:
+```
+2. m. Acción y efecto de diagnosticar.
+Sin.:	
+    diagnosis, pronóstico, valoración, 
+	evaluación, dictamen, janálisis, examen.
+```
+Diagnósticar según el diccionario de la RAE en su primera acepción dice así:
+```
+1. tr. Recoger y analizar datos para evaluar 
+   problemas de diversa naturaleza.
+Sin.:	
+    valorar, evaluar, determinar, 
+	pronosticar, dictaminar, enjuiciar, 
+	calificar, definir, especificar, señalar.
+```
+En sus otras acepciones en la RAE tiene una indicación de que es un término relativo a la medicina la segunda acepción
+de diagnósticar dice así:
+```
+2. tr. Med. Determinar el carácter de una 
+   enfermedad mediante el examen de sus signos.
+```
+Infiriendo de esto podemos llegar a las siguientes conclusiones:
+
+1. La palabra diagnóstico no tiene necesariamente una relación directa con la medicina.
+2. La RAE piensa que solo se pueden diagnósticar enfermedades en contextos médicos.
+
+Utilizando las acepciones no médicas, el **autodiagnóstico de autismo** se podría definir como 
+la recogida y analisis de datos para evaluar el "problema" de que pudieramos ser autista. 
+Sin tener siquiera un carácter médico. Creo que oficialmente nuestro uso del término está cubierto por 
+las definiciones aceptadas socialmente. 
+
+**<u>Conclusión</u>**: Denegar el uso del termino *diagnóstico* o *autodiagnóstico*
+para hablar de nuestro proceso de recogida de datos y de las conclusiones de nuestra investigación no tiene sentido,
+a nivel de términos.
+
+**Nota**: Hay gente que asume que usamos la *acepción incorrecta de diagnósticar*, 
+para argumentar que **autodiagnósticarnos** el autismo
+implica que estamos considerandonos **personas enfermas**. 
+Es un fallo importante de razonamiento lógico como podemos inferir del razonamiento previo.
+
+**<u>¿Podemos autodiagnósticarnos con la misma autoridad que "une médico"?</u>**
+
+> ¿Podemos desautorizar a les médiques?
+
+Socialmente se entiende como que *solo pueden diagnósticar figuras con autoridad legal* para ello, 
+no importa si realmente tienen capacidad y formación correcta y suficiente para realizar dichos diagnósticos 
+o si realmente son profesionales (anti)capacitistas. 
+Se castiga cualquier clase de proceso o uso de palabras que se refiera a **la negación de dicha autoridad**.
+
+¿No es sino mas **capacitista**...?: 
+
+- Afirmar que no tenemos capacidad para entender 
+  nuestros rasgos autistas. Esto me parece muy similar a cuando hubo persecuciones y movimientos 
+  politico-religiosos en contra de la traducción de la biblia del latín otras lenguas porque solo había UNA manera
+  correcta de hacer las cosas. Por lo que, se nos **desautoriza** a hacer cualquier analisis por nuestra cuenta,
+  haya o no intención de recibir un diagnóstico pasando por el sistema.
+- Afirmar que no tenemos **autoridad** para tener nuestro propio criterio frente a un sistema 
+  que constantemente nos infradiagnostica, misdiagnostica, maltrata, desautoriza, infantiliza, etc. 
+  Psiquiatras, psicologues, médiques y todes les voceres de dicho sistema son participes, complices,
+  legisladores y ejecutores del capacitismo hacia autistas sin diagnóstico. 
+  
+**Conclusión**: Negar el autodiagnóstico, sea terminológicamente o por desautorizar las voces autistas,
+es una posición política muy pobre y que solo beneficia al **sistema médico**. Nos quieren indefenses, 
+sin herramientas, redes de apoyo y sin argumentos.
+
 
 ⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
 
@@ -294,10 +384,10 @@ Se suele evitar el diagnóstico de autismo por las implicaciones que tiene a niv
 Pero es **necesario** aceptarlo y que se acepte porque esto impide que podamos progresar y tener equidad con el resto de la sociedad. 
 Les autistas podemos progresar y mejorar nuestra calidad de vida cuando desenmascaramos, cambiamos nuestro entorno social, evitamos la exposición a estimulos desagradables, nos quitamos la culpas que hemos interiorizado por capacitismo interno, etc.
 
-En esta tabla resumimos los diagnosticos malos mas comunes:
+En esta tabla resumimos los diagnosticos malos (misdiagnosis o pseudodiagnósis) mas comunes:
 
-| Abreviatura | Nombre completo | Pseudodiagnóstico o de dudoso rigor científico | Razón de recibir el diagnóstico | Como diferenciar de autismo |
-| - | - | - | - | -  |
+| Abreviatura | Nombre | ¿Pseudodiagnóstico? | Razón de recibir el diagnóstico | Diferencias con el autismo |
+| - | -- | - | -- | --- |
 | TEPT(C)     | Trastorno de Estrés Postraumático (Complejo). | ✅ No | La mayoría de autistas sufrimos TEPTC. | Hay que buscar rasgos que no se desarrollan por traumas. Como el perfil sensorial atípico o elementos temporalmente constantes, sobretodo comparar antes y despues de los sucesos traumaticos. | 
 | TLP         | Trastorno Limite de Personalidad. | 🚩 Casi seguro | La misma que el TEPTC pero si les caemos mal a les profesionales pueden darnos este diagnóstico.   Se asocia a gente hiperreactiva a sus emociones y estímulos. | Hay que examinar los criterios diagnósticos de forma crítica y buscar rasgos no tenidos en cuenta en dicha exploración de parte de le profesionale (si es que se llegó a hacer un diagnóstico diferencial y no se usó como insulto/castigo hacia la persona). |
 | TDAH        | Trastorno de Déficit de Atención e Hiperactividad. | ✅ No | Les autistas tenemos muchisimas cosas en común. Somos primes-hermanes de neurodivergencia | Les TDAH tienen mas problemas para regular la dopamina y el efecto de las drogas es algo diferente que en autistas. Drogas estimulantes y depresivas suelen actuar de la forma contraria. Les autistas solemos tener mas dificultades de lenguaje y comunicación que les TDAH no autistas. | 
