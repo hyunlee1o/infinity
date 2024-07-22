@@ -203,6 +203,7 @@ Consiste en diagnósticarse a través 💊 del sistema médico y profesionales a
 
 Los sucesos mas habituales en consultas de profesionales son:
 1. <U>Prejuicios hacia el autismo en consulta</u>:
+
    * Te pueden negar la posibilidad de ser autista o criticar e invalidad tu forma de ser.
    * Tengas que hacer una **busqueda extensa y tediosa** para encontrar a alguien que te escuche.
 
@@ -273,6 +274,7 @@ sabrán lo que tendrán que ver. Si tus rasgos autistas no les parecen lo sufici
  estereotípicos es probable que su diagnóstico no sea correcto.
 
 ⚠ <u>Aclaración</u>
+
 * **<u>No necesitas que une profesional te diagnostique para poder
     considerarte autista.</u>**
 * **<u>El autodiagnóstico es válido para considerarse autista sin necesidad de profesionales.</u>**
@@ -284,6 +286,7 @@ confusión con otras condiciones o transtornos. Es necesario hacer **diagnóstic
 diagnóstico donde se buscan diferencias con otras condiciones y transtornos que se pueden parecer en algunas cosas para descartar.
 
 Sin un diagnóstico diferencial no se explora el autismo y se deja en un diagnóstico de: 
+
 * <u>Persona rara, estresada o traumada</u>:  (TEPTC, TLP, transtorno de ansiedad, esquizotipico, antisocial, etc) 
 * <u>Persona sensible o inteligente</u>: Se tapa el autismo mediante otras etiquetas (PAS, AACC, etc) que representan partes de nuestra personalidad o capacidad pero intentando evitar el estigma.
 
@@ -364,11 +367,11 @@ procedimientos de identificación y diagnóstico tiene como características:
   * Son contraries a la accesibilidad por su odio hacia la gente disca.
   * Te asumen como disfuncional, con discapacidad intelectual, frágil, etc.
   * Si enmascaramos suficientemente bien nuestros rasgos autistas, no
-      aparentamos tener disfunción ejecutiva o no nos parecemos
-      a estereotipos basados en personajes populares de ficción "autistas"
-      pueden llegar a :
-    * Cuestionar nuestro diagnóstico.
-    * Darnos refuerzo positivo por no aparentar "tener una enfermedad" o
+	aparentamos tener disfunción ejecutiva o no nos parecemos
+	a estereotipos basados en personajes populares de ficción "autistas"
+	pueden llegar a :
+	  - Cuestionar nuestro diagnóstico.
+	  - Darnos refuerzo positivo por no aparentar "tener una enfermedad" o
           "funcionar de forma  bastante neurotípica".
 
 * 😵‍💫 Te crean **traumas** en el proceso de diagnóstico por los puntos anteriores.
@@ -732,7 +735,7 @@ Se puede encontrar mas información en la wikipedia en 🔗[inglés](https://en.
 ---
 
 
-✍️ Para <u>rellenar esta sección</u> en la plantilla de autodiagnóstico** querremos apuntar todas las:
+✍ Para **rellenar esta sección** en la plantilla de autodiagnóstico querremos apuntar todas las:
 
 * **Empatía autista** / Manifestaciones atípicas de empatía
   * Opinión y explicación de la manera en las que se perciben las normas
@@ -800,6 +803,7 @@ accesibles y mas sencillas de interpretar bien.
 #### Comunicación verbal 
 
 ℹ️ **<u>Ejemplos</u>**:
+
 * Habla monótona
 * Ecolálias
 * Dificultad para entender el lenguaje no literal: Bromas, sarcasmo, etc.
@@ -841,8 +845,8 @@ personalidad y nuestra identidad que hay que cuidar y conocer.
 * Tener temporadas (largas) sin ser capaz de comunicarnos verbalmente por
   multiples factores de estrés que nos sobrecargan.
 
-✍️ Para <u>rellenar esta sección</u> en la plantilla de
-autodiagnóstico** se deberían incluir los patrones atípicos que divergen de lo
+✍ Para **rellenar esta sección** en la plantilla de
+autodiagnóstico se deberían incluir los patrones atípicos que divergen de lo
 que se considera una comunicación “natural” según parámetros neurotípicos.
 
 
@@ -892,7 +896,7 @@ intereses ajenos.
   respetuosa con tus necesidades ni con tiempo suficiente para que te puedas
   organizar y te genera mucho estrés.
 
-✍️ Para <u>rellenar esta sección</u> en la plantilla de
+✍ Para **rellenar esta sección** en la plantilla de
 autodiagnóstico sería importante anotar una relación entre como sientes que
 interactúas socialmente y como influye tu neurodivergencia. 
 
@@ -952,7 +956,7 @@ donde tienen un cierto control. Nos puede costar salir de ellos o cambiar esos m
 Hay muchos más que se pueden buscar o leer fuera. Entrevistándote con otres
 autistas podrás reflejarte en muchas de sus experiencias.
 
-✍️ Para <u>rellenar esta sección</u> en la plantilla de
+✍ Para **rellenar esta sección** en la plantilla de
 autodiagnóstico habría que incluir todos los aspectos que consideremos
 divergentes y sería bueno que pudiéramos darles explicación en base a tus otros rasgos
 autistas. Analiza tus necesidades y piensa en las razones por las que tienes
@@ -1160,6 +1164,7 @@ un origen ni un objetivo claro. Puede ser tanto por gusto, por disgusto, por
 miedo, etc.
 
 **Ejemplos**: 
+
 * Revisar muchas veces las puertas tras haberlas cerrado por inseguridad y miedo.
 * Corregir ciertos desordenes de objetos y recolocar objetos, especialmente
 cuando no son nuestros.
@@ -1201,6 +1206,7 @@ todos los aspectos que se consideran disidentes en la manera en la que
 está organizada la sociedad.
 
 Aspectos que me parecen disidentes:
+
 * No ser *capitalista*
 * No ser *individualista*, pensar en el bien común y buscar la justicia
 * No ser cisgénero o *no asumir* como natural el *género impuesto*
@@ -1217,7 +1223,7 @@ conservadora. Si no, no se explicaría que hubiera tanta gente de hace varias ge
 siendo tan egoísta y que, sin embargo, les siguen costando las
 convenciones sociales y siguen siendo autistas con sus rasgos y dificultades.
 
-✍ Para <u>rellenar esta sección</u> en la plantilla de
+✍ Para **rellenar esta sección** en la plantilla de
 autodiagnóstico habría que hacer una lista de las maneras en las que diverges
 de las convenciones sociales.
 
@@ -1270,7 +1276,7 @@ simplemente son atípicos:
 
 #### Otras cosas relevantes a tener en cuenta:
 
-* Perfiles de **<u>búscadore o evitadore<u/>** de estímulos y experiencias sensoriales** .
+* Autistas **<u>buscadores o evitadores<u/>** de estímulos y experiencias sensoriales.
   Les autistas se suelen repartir en dos tipos:
     1. Si eres **hiposensible** a algún estímulo busques estímulos **mas intensos**.
     2. Si eres **hipersensible** a algún estímulo busques estímulos **menos intensos**.
@@ -1285,7 +1291,7 @@ simplemente son atípicos:
 	a las texturas y evitan el contacto con las que les son desagradable. 
 	Esto sería un ejemplo buscadore y evitadore de estímulos
       
-* **<u>La sinestesia Aparte</u>**, entre la gente autista existen quienes pueden sentir la
+* **<u>La sinestesia aparte</u>**, entre la gente autista existen quienes pueden sentir la
   **sinestesia**. Se produce cuando un estímulo afecta a varios sentidos a la
   vez de forma involuntaria que cambia en la forma en la que se percibe un estímulo.
 
@@ -1297,7 +1303,7 @@ simplemente son atípicos:
   * Saborear sonidos/texturas.
   * Oler emociones.
   
-✍️ Para **<u>rellenar esta sección</u>** de la plantilla de autodiagnóstico tienes varias
+✍ Para **rellenar esta sección** de la plantilla de autodiagnóstico tienes varias
 opciones:
 
 1. La creación de un perfil sensorial sea por cuenta propia o por medio de une profesional.
@@ -1329,7 +1335,7 @@ autismo.
 * Bruxismo/Dolencias musculares en la cara
 * Otras neurodivergencias.
 
-✍️ Para **<u>rellenar esta sección</u>** en la plantilla de autodiagnóstico sería bueno hacer una lista de tus
+✍ Para **rellenar esta sección** en la plantilla de autodiagnóstico sería bueno hacer una lista de tus
 enfermedades, trastornos y condiciones y si puedes, luego enlazarnos con el
 autismo.
 
