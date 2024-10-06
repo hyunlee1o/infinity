@@ -1,5 +1,12 @@
 %% Allow emojis :_D
 \usepackage{fontspec}
+
+%% Seems like setting this on top fixes the language problem
+\usepackage[T1]{fontenc}
+\usepackage[spanish, es-noshorthands, shorthands=off]{babel}
+\usepackage{hyperref}
+
+%% This has to be after setting the language
 \directlua{luaotfload.add_fallback
    ("emojifallback",
     {
@@ -13,6 +20,10 @@
 \setmonofont{Hack}[
   RawFeature={fallback=emojifallback}
 ]
+
+%% \usepackage[utf8]{inputenc}
+%% \usepackage[T1]{fontenc}
+
 %% Control borders of page
 %% \usepackage{setspace}
 %% \onehalfspacing

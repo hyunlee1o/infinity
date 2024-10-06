@@ -7,7 +7,8 @@
 
 En Ubuntu 24.04 o Debian 13:
 ```
-sudo apt install -m just pandoc texlive-lang-spanish
+sudo apt install -m just pandoc texlive-lang-spanish texlive-luatex
+texlive-latex-base texlive-latex-recommended
 curl -fsSL https://raw.githubusercontent.com/getnf/getnf/main/install.sh | bash
 getnf -i OpenDyslexic
 wget https://github.com/googlefonts/atkinson-hyperlegible/archive/refs/heads/main.zip
@@ -22,8 +23,8 @@ fc-cache -f -v
 - [ ] Crear un CSS accessible para incluir en cada página.
 - [ ] Guía de autodiagnóstico
     - PDF, DOCX, etc
-	    - [ ] Cambiar versión estandar a una fuente mas accesible.
-	    - [ ] Generar edición con fuente OpenDyslexyc
+	    - [x] Cambiar versión estandar a una fuente mas accesible.
+	    - [x] Generar edición con fuente OpenDyslexyc
 	    - [ ] Actualizar links para incluir edición OpenDyslexic
     - [ ] Asegurar funcionamiento de todos los links y del índice
 	- [ ] Mejorar comunicación autista verbal y no verbal
@@ -37,3 +38,9 @@ fc-cache -f -v
 - [ ]
 - [ ]
 - [ ]
+
+# Problemas conocidos
+- [x] Pandoc no genera correctamente los nombres de los "Chapter" en español. 
+	  Si cambiamos el idioma a español, busca los emojis en la fuente
+	  principal. Atkinson Hyperlegible.
+
