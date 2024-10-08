@@ -67,9 +67,10 @@ Escrito por <u>hyunlee1o</u>
 
 ## Guía de autodiagnóstico
 
-| Enlaces  |  |  |  |
-| ---- | ----- | ---- | ---- |
-| 🔗[PDF](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
+| Fuente  | Enlaces |  |  | |
+| ---- | ---- | ----- | ---- | ---- |
+| Atkinson Hyperlegible  | 🔗[PDF](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
+| Open Dyslexic | 🔗[PDF](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.pdf) | 🔗[DOCX](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.docx) | 🔗[EPUB](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.epub) | 🔗[TXT](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
@@ -78,7 +79,6 @@ Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 | Enlaces |  |  |
 | :-: | :-: | :-: |
 |🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.txt)| 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.docx) | 🔗[Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega) |
-
 ⬆[[Volver a la tabla de contenidos][1]]⬆
 
 ---

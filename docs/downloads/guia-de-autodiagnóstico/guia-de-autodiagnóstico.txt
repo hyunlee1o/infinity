@@ -1,9 +1,12 @@
 %% Allow emojis :_D
 \usepackage{fontspec}
+
+%% Seems like setting this on top fixes the language problem
 \usepackage[T1]{fontenc}
 \usepackage[spanish, es-noshorthands, shorthands=off]{babel}
 \usepackage{hyperref}
 
+%% This has to be after setting the language
 \directlua{luaotfload.add_fallback
    ("emojifallback",
     {
@@ -100,12 +103,14 @@ Descargas
 
 Guía de autodiagnóstico
 
-  -----------------------------------------------------------------------
-  Enlaces                                                
-  ---------------- -------------------- ---------------- ----------------
-  🔗PDF            🔗DOCX               🔗EPUB           🔗TXT
+  -------------------------------------------------------------------------
+  Fuente         Enlaces                                      
+  -------------- ------------- ---------------- ------------- -------------
+  Atkinson       🔗PDF         🔗DOCX           🔗EPUB        🔗TXT
+  Hyperlegible                                                
 
-  -----------------------------------------------------------------------
+  Open Dyslexic  🔗PDF         🔗DOCX           🔗EPUB        🔗TXT
+  -------------------------------------------------------------------------
 
 Plantillas rellenables para documentación de rasgos
 
@@ -2029,5 +2034,5 @@ Plantilla de rasgos para copia pega
 
 ------------------------------------------------------------------------
 
-© 2022-2024. Este documento está licenciado a Creative Commons con una
-licencia 🔗CC BY-NC-SA
+© Colectivo infinito arcoiris 2022-2024. Este documento está licenciado
+a Creative Commons con una licencia 🔗CC BY-NC-SA
