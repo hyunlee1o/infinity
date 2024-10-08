@@ -7,6 +7,7 @@
 
 En Ubuntu 24.04 o Debian 13:
 ```
+# instalar pandoc de https://github.com/jgm/pandoc/releases/latest
 sudo apt install -m just pandoc texlive-lang-spanish texlive-luatex
 texlive-latex-base texlive-latex-recommended
 curl -fsSL https://raw.githubusercontent.com/getnf/getnf/main/install.sh | bash
