@@ -12,8 +12,8 @@ title:
   - "Guía de autodiagnóstico de autismo para documentación y autoanálisis"
 fontsize: 14pt
 number_sections: true
-mainfont: "Atkinson Hyperlegible"
-sansfont: "Atkinson Hyperlegible"
+mainfont: "OpenDyslexic Nerd Font"
+sansfont: "OpenDyslexic Nerd Font"
 monofont: "Hack"
 mainfontfallback:
   - "NotoColorEmoji:mode=harf"
