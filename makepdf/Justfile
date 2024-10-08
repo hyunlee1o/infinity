@@ -1,11 +1,11 @@
 #!/usr/bin/env just --justfile
-PANDOC_OPTIONS := '--embed-resources --number-sections --listings -H ' + CWD + '/preamble.tex'
+PANDOC_OPTIONS := '--embed-resources --number-sections --listings'# -H ' + CWD + '/preamble.tex'
 PANDOC_DOCX_OPTIONS := ""
 PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
 PANDOC_TXT_OPTIONS := ""
 CWD := justfile_directory()
 PANDOC_PDF_OPTIONS := '-s --pdf-engine=lualatex'# --lua-filter='+CWD+'/parse-html.lua'
-FROM := "markdown_mmd+emoji"
+FROM := "markdown_mmd+hard_line_breaks"
 
 
 docx FILE OUTPUT FILENAME:
