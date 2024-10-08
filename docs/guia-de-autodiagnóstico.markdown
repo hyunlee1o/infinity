@@ -67,9 +67,10 @@ Escrito por <u>hyunlee1o</u>
 
 ## Guía de autodiagnóstico
 
-| Enlaces  |  |  |  |
-| ---- | ----- | ---- | ---- |
-| 🔗[PDF](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
+| Fuente | Enlaces |  |  |  |
+| --- | ---- | ----- | ---- | ---- |
+| Atkinson Hyperlegible | 🔗[PDF](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
+| OpenDyslexic | 🔗[PDF](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.pdf) | 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.docx) | 🔗[EPUB](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.epub) | 🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico-dislexia.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
