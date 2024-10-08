@@ -69,7 +69,7 @@ Escrito por <u>hyunlee1o</u>
 
 | Enlaces  |  |  |  |
 | ---- | ----- | ---- | ---- |
-| 🔗[PDF](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://hyunlee1o.github.io/infinity/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
+| 🔗[PDF](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/refs/heads/main/docs/downloads/guia-de-autodiagn%C3%B3stico/guia-de-autodiagn%C3%B3stico.txt)|
 
 ## Plantillas rellenables para documentación de rasgos
 
