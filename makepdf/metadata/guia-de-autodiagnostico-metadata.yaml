@@ -1,6 +1,9 @@
 ---
 header-includes:
   - \usepackage{extsizes} # Allow changing font size
+  - \usepackage{fvextra} # Allow text wrap for code blocks
+  # - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
 documentclass: report
 lang: "es-ES"
 author: 
