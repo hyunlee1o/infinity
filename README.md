@@ -9,7 +9,7 @@ En Ubuntu 24.04 o Debian 13:
 ```
 # instalar pandoc de https://github.com/jgm/pandoc/releases/latest
 sudo apt install -m just pandoc texlive-lang-spanish texlive-luatex
-texlive-latex-base texlive-latex-recommended texlive-latex-extra git-lfs
+texlive-latex-base texlive-latex-recommended texlive-latex-extra git-lfs fonts-noto-color-emoji
 curl -fsSL https://raw.githubusercontent.com/getnf/getnf/main/install.sh | bash
 getnf -i OpenDyslexic
 wget https://github.com/googlefonts/atkinson-hyperlegible/archive/refs/heads/main.zip
@@ -26,7 +26,7 @@ fc-cache -f -v
     - PDF, DOCX, etc
 	    - [x] Cambiar versión estandar a una fuente mas accesible.
 	    - [x] Generar edición con fuente OpenDyslexyc
-	    - [ ] Actualizar links para incluir edición OpenDyslexic
+	    - [x] Actualizar links para incluir edición OpenDyslexic
     - [ ] Asegurar funcionamiento de todos los links y del índice
 	- [ ] Mejorar comunicación autista verbal y no verbal
 	- [ ] Información resumida sobre cerebros autistas vs neurotípicos

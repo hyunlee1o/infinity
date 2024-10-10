@@ -1,7 +1,7 @@
 #!/usr/bin/env just --justfile
-PANDOC_OPTIONS := '--embed-resources --number-sections --listings'# -H ' + CWD + '/preamble.tex'
+PANDOC_OPTIONS := '--embed-resources --number-sections --listings'
 PANDOC_DOCX_OPTIONS := ""
-PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter"
+PANDOC_EPUB_OPTIONS := "--standalone --top-level-division=chapter --epub-embed-font=$HOME/.local/share/fonts/OpenDyslexic/*.otf --epub-embed-font=$HOME/.local/share/fonts/Atkinson/*.ttf"
 PANDOC_TXT_OPTIONS := ""
 CWD := justfile_directory()
 PANDOC_PDF_OPTIONS := '-s --pdf-engine=lualatex'# --lua-filter='+CWD+'/parse-html.lua'
@@ -14,8 +14,8 @@ docx FILE OUTPUT FILENAME:
 txt FILE OUTPUT FILENAME:
 	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_TXT_OPTIONS}} --from {{FROM}} --to plain -o {{OUTPUT}}/{{FILENAME}}.txt {{FILE}}
 
-epub FILE OUTPUT FILENAME:
-	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --from {{FROM}} --to epub3 -o {{OUTPUT}}/{{FILENAME}}.epub  {{FILE}}
+epub FILE OUTPUT FILENAME CSS:
+	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_EPUB_OPTIONS}} --css {{CSS}} --from {{FROM}} --to epub3 -o {{OUTPUT}}/{{FILENAME}}.epub  {{FILE}}
 
 # metadata must be a yaml
 pdf FILE OUTPUT FILENAME METADATA:
@@ -23,11 +23,11 @@ pdf FILE OUTPUT FILENAME METADATA:
 	set -euxo pipefail
 	cd ../docs && pandoc {{PANDOC_OPTIONS}} {{PANDOC_PDF_OPTIONS}} --metadata-file={{METADATA}} --from {{FROM}} -o {{OUTPUT}}{{FILENAME}}.pdf {{FILE}}
 
-all FILE OUTPUT FILENAME METADATA:
+all FILE OUTPUT FILENAME METADATA CSS:
 	just pdf {{FILE}} {{OUTPUT}} {{FILENAME}} {{METADATA}}
 	just docx {{FILE}} {{OUTPUT}} {{FILENAME}}
 	just txt {{FILE}} {{OUTPUT}} {{FILENAME}}
-	just epub {{FILE}} {{OUTPUT}} {{FILENAME}}
+	just epub {{FILE}} {{OUTPUT}} {{FILENAME}} {{CSS}}
 
 default FILE OUTPUT FILENAME METADATA:
 	just --list

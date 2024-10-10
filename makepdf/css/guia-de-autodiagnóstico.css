@@ -1,0 +1,30 @@
+    @font-face {
+       font-family: AtkinsonHyperlegible;
+       font-style: normal;
+       font-weight: normal;
+       src:url("~/.local/share/fonts/Atkinson/AtkinsonHyperlegible-Regular.ttf");
+    }
+    @font-face {
+       font-family: AtkinsonHyperlegible;
+       font-style: normal;
+       font-weight: bold;
+       src:url("~/.local/share/fonts/Atkinson/AtkinsonHyperlegible-Bold.ttf");
+    }
+    @font-face {
+       font-family: AtkinsonHyperlegible;
+       font-style: italic;
+       font-weight: normal;
+       src:url("~/.local/share/fonts/Atkinson/AtkinsonHyperlegible-Italic.ttf");
+    }
+    @font-face {
+       font-family: AtkinsonHyperlegible;
+       font-style: italic;
+       font-weight: bold;
+       src:url("~/.local/share/fonts/Atkinson/AtkinsonHyperlegible-BoldItalic.ttf");
+    }
+    @font-face {
+      font-family: 'Noto Color Emoji';
+      src: url("/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf");
+    }
+    body { font-family: "AtkinsonHyperlegible"; }
+

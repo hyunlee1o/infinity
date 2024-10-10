@@ -1,0 +1,30 @@
+    @font-face {
+       font-family: OpenDyslexicNerdFont;
+       font-style: normal;
+       font-weight: normal;
+       src:url("~/.local/share/fonts/OpenDyslexic/OpenDyslexicNerdFont-Regular.ttf");
+    }
+    @font-face {
+       font-family: OpenDyslexicNerdFont;
+       font-style: normal;
+       font-weight: bold;
+       src:url("~/.local/share/fonts/OpenDyslexic/OpenDyslexicNerdFont-Bold.ttf");
+    }
+    @font-face {
+       font-family: OpenDyslexicNerdFont;
+       font-style: italic;
+       font-weight: normal;
+       src:url("~/.local/share/fonts/Atkinson/OpenDyslexicNerdFont-Italic.ttf");
+    }
+    @font-face {
+       font-family: OpenDyslexicNerdFont;
+       font-style: italic;
+       font-weight: bold;
+       src:url("~/.local/share/fonts/Atkinson/OpenDyslexicNerdFont-BoldItalic.ttf");
+    }
+    @font-face {
+      font-family: 'Noto Color Emoji';
+      src: url("/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf");
+    }
+    body { font-family: "OpenDyslexicNerdFont"; }
+
