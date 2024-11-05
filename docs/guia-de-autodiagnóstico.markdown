@@ -903,14 +903,13 @@ el desarrollo del lenguaje y dificultades en el aprendizaje. Se habla de TEL
 separado en varios tipos de TEL.
 
 #### Formas alternativas de comunicarse
-Es importante destacar que existen muchas formas alternativas de comunicarse a
-la forma verbal y no verbal y que son perfectamente válidas e incluso mas
-accesibles y mas sencillas de interpretar bien. 
+Las podemos clasificar en formas verbales y no verbales. Suelen ser mucho mas
+**accesibles**, **expresivas** y **fáciles de interpretar** que las formas normativas. 
 
-* Imágenes o pictogramas
+* Ecolalia
+* Imágenes o pictogramas / tableros de lenguaje
 * Expresiones faciales
 * Gestos convencionales y personales
-* Ecolalia
 * Lenguaje de signos
 * Cercanía física
 * Autolesiones
@@ -918,17 +917,37 @@ accesibles y mas sencillas de interpretar bien.
 
 
 #### Comunicación verbal 
+>
+> No me apetece hablar, solo decir miau y que me respondas miau
 
-ℹ️ **<u>Ejemplos</u>**:
+* Nuestra forma de *hablar* <u>(si desenmascaramos)</u> suele tender a:
+	* un tono de voz que puede ser o monótono/robótico o
+      "desinhibido"/"inapropiado".
+	* un volumen de voz ascendente o muy bajo
+    * usar [ecolalias](#ecolalias)
+    * tener alteraciones en la *prosodia* (capacidad de pronunciar las palabras y
+      fonemas)
+* Comunicandonos verbalmente tendemos a:
+	* Dar demasiado contexto o demasiado poco
+	* No ordenar los eventos de forma cronológica
+	* (en algunos casos) usar la tercera persona para referirnos a nosotres
+* Recibiendo comunicación verbal tendemos a:
+	* no estar receptives en todo momento a comunicación verbal, especialmente
+      en hiperfoco.
+	* no sentirnos interpelades si no se hace de forma directa
+	* tener dificultad para entender el lenguaje figurado o *no literal*. Uso de
+      sarcasmo, metaforas, absurdismo, bromas, etc.
 
-* Habla monótona
-* Ecolálias
-* Dificultad para entender el lenguaje no literal: Bromas, sarcasmo, etc.
-* Dificultad con el lenguaje verbal generalizada
-    * Alteraciones en la prosodia
-	* Falta de contexto
-	* Dificultad para ordenar eventos
-	* Problemas para procesar correctamente sonidos/fonética
+Hay autistas que les cuesta mucho desarrollar las habilidades de comunicación verbal
+en la infancia y es una de las caracteristicas mas conocidas. Si bien, es
+importante tener todas las herramientas posibles: 
+   * Las metodologías de aprendizaje hay que adaptarlas a autistas y otra gente
+      discapacitada. Se enfocan mas en normalizarnos mas que en ayudarnos a tener
+      todas las habilidades posibles.
+   * No es necesario funcionar de la manera "correcta" alista en absoluto y se
+     da importancia a hitos de aprendizaje e interacción irrelevantes. 
+   * Debería validarse utilizar cualquier otro sistema de comunicación apropiado
+     al contexto y no ser simplemente un *recurso especial*.
 
 #### Comunicación no verbal 
 >
