@@ -845,17 +845,35 @@ Se puede encontrar mas información en la wikipedia en 🔗[inglés](https://en.
 ### Formas de comunicación no convencionales 
 Uno de los rasgos mas asociados con el autismo es nuestra forma de
 comunicarnos. Es de los rasgos mas llamativos para la gente que nos observa. El
-autismo se suele asociar con una supuesta dificultad en el lenguaje tanto verbal como no
-verbal. 
+autismo se suele asociar con una *supuesta dificultad* en el lenguaje tanto
+**verbal** como **no verbal**. 
 
-Es importante destacar que  tenemos nuestras propias formas alternativas de
-comunicarnos y son igual de válidas que las formas alistas. A la hora de conocer
-nuestra forma de comunicarnos o trabajar en las habilidades comunicativas, les
-alistas no entienden que en realidad le faltan conocimientos y habilidades y que
-tienen que adaptarse o adaptarnos porque si no, vamos a reaccionar negativamente
-y nos vamos a aislar. Por otra parte, la mayoría de documentación sobre
-comunicación autista está desde una perspectiva alista, en 3ª persona y es muy
-capacitista.
+En este apartado vamos a contradecir este relato. En realidad, nuestras
+formas de comunicación son igual de válidas que las formas alistas. De hecho
+probablemente nuestras maneras son seguramente mas amplias, ricas y expresivas.
+
+Es importante desmontar esta idea, porque la mayoría de documentación e
+investigación hecha sobre la comunicación autista se hace desde una perspectiva
+alista, en tercera persona sin tener en cuenta nuestra experiencia y por lo
+tanto acaba siendo muy capacitista.
+
+#### Los conflictos comunicativos
+Es habitual que surjan *conflictos de formas de comunicarse* entre personas
+con culturas o esquemas diferentes, especialmente entre alistas y autistas.
+ℹ️ *Ejemplo*: Una persona que prefiere tener conversaciones por texto y otra que
+prefiere hablar en persona de forma mas o menos improvisada.
+
+La falta de conocimientos de las **formas alternativas de
+comunicación** y de habilidades comunicativas crean situaciónes donde no hay
+entendimiento mutuo y fuerzan que **solo haya una manera correcta** socialmente
+aceptable. Por sistema se impone la forma de comunicación mas normativa sobre el
+resto. 
+ℹ️ *Ejemplo*: Conversaciones orales sin turno de palabra, mirarse a los ojos al
+hablar, protocolos sociales muy marcados e para interpretar de forma inequivoca
+la intención de las todo tipo de interacciones.
+
+Si no nos adaptamos a las formas normativas, tendemos a reaccionar negativamente
+y aislarnos de personas y grupos que tengan esas culturas de comunicación. 
 
 La gente autista necesitamos un ambiente positivo hacia nosotres y adaptado para
 poder desarrollar habilidades sociales y de comunicación, que es uno de las
@@ -864,11 +882,19 @@ autismo en 1ª persona. Generalmente tener peores habilidades de comunicación e
 resultado de la exclusión social y falta de apoyos.
 
 El **principal causante** de que tengamos problemas de comunicación con alistas, 
-es que la sociedad es excluyente y arrasa con quienes somos diferentes. Hay un déficit 
-gigantesco de inclusividad en los espacios que habitamos. Esto provoca que se nos 
- asocie con comportamientos agresivos o desafiantes, pero es que estamos hartes 
-de vuestra incomprensión y necesitamos sistemas efectivos para poder comunicarnos tanto 
-con alistas como con autistas.
+es la cultura comunicativa de las sociedades, es excluyente y arrasa con quienes
+somos diferentes. Hay un déficit gigantesco de inclusividad y esto es
+transversal a todas las discapacidades que tienen alguna relación con la
+comunicación. 
+ℹ️ *Ejemplo*: Los programas informáticos no tienen desarrolladas suficientes
+herramientas de accesibilidad para la gente ciega. Las aplicaciones de
+transporte no dictan por voz cuando llega el autobus desde el movil y solo
+pueden mirarlo si en la parada hay un botón físico que presionas para que te
+dicte la propia parada la duración estimada de espera.
+
+En nuestro caso particular, la falta de inclusividad provoca que se nos asocie con comportamientos agresivos o
+desafiantes, pero es que estamos hartes de vuestra incomprensión y necesitamos
+integrar las *formas alternativas de comunicación* dentro de las sociedades.
 
 Hay **mas causas**, una de las principales características autistas es una
 *dificultad en el procesamiento del lenguaje*. Suele asociarse con un retraso en
