@@ -20,7 +20,7 @@ title: Guía de autodiagnóstico
        1. 🌻 [El autismo es una discapacidad](#el-autismo-es-una-discapacidad)
     1. ❌ 📘 [Sobre el lenguaje médico](#sobre-el-lenguaje-médico)
 	1. 🔍⚕️ [Sobre el término autodiagnóstico](#sobre-el-término-autodiagnóstico)
-	1. [Sobre el TDAH](#sobre-el-tdah)
+	1. 🐇 [Sobre el TDAH](#sobre-el-tdah)
 1. [Sobre los diagnósticos](#sobre-los-diagnósticos)
     1. 📝 [Vías para (auto)diagnosticarse](#vías-para-autodiagnosticarse)
     1. ❌ 👎  [Crítica a los procesos de diagnóstico oficiales](#crítica-a-los-procesos-de-diagnóstico-oficiales)
@@ -175,12 +175,12 @@ El autismo es una **<u>discapacidad dinámica no visible</u>** que además es mu
 * Es **invisible** o **no visible** porque no se puede saber a simple vista, o con exploraciones médicas sencillas
   si alguien es autista sino con un análisis detallado de su comportamiento.
 * <u>Tipos de discapacidades a los que pertenece. En orden de relevancia:</u>:
-	* Es **psicosocial** porque la principal causa de discriminación es la conducta social autista.
+	* 1️⃣ Es **psicosocial** porque la principal causa de discriminación es la conducta social autista.
 	  Se nos dificulta existir en una sociedad hecha para neurotípiques por su falta de consideración hacia otras realidades.
-	* Es **sensorial** porque es muy habitual que nuestros sentidos nos incapaciten en muchas situaciones por exceso de ruidos, luces, etc.
-	* Es **social y contextual**: Porque generalmente sufrimos maltrato por nuestro contexto y nos incapacita.
-	* Es **orgánica** porque los procesos fisiologicos y neurologicos autistas pueden incapacitarnos mas que a neurotípiques.
-	* Es **física** porque es habitual que nuestras capacidades físicas/motrices nos puedan incapacitar o dificultar el movimiento.
+	* 2️⃣ Es **sensorial** porque es muy habitual que nuestros sentidos nos incapaciten en muchas situaciones por exceso de ruidos, luces, etc.
+	* 3️⃣ Es **social y contextual**: Porque generalmente sufrimos maltrato por nuestro contexto y nos incapacita.
+	* 4️⃣ Es **orgánica** porque los procesos fisiologicos y neurologicos autistas pueden incapacitarnos mas que a neurotípiques.
+	* 5️⃣ Es **física** porque es habitual que nuestras capacidades físicas/motrices nos puedan incapacitar o dificultar el movimiento.
 	
 Aunque no se reconozca como tal, el autismo es incapacitante de diferentes maneras en diferentes categorías y no se debe
 minusvalorar las que se salgan del tipo mas común.
@@ -252,7 +252,7 @@ Sin.:
     diagnosis, pronóstico, valoración, 
 	evaluación, dictamen, janálisis, examen.
 ```
-Diagnósticar según el diccionario de la RAE en su primera acepción dice así:
+Diagnosticar según el diccionario de la RAE en su primera acepción dice así:
 ```
 1. tr. Recoger y analizar datos para evaluar 
    problemas de diversa naturaleza.
@@ -315,40 +315,56 @@ sin herramientas, redes de apoyo y sin argumentos.
 ⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
 
 ## Sobre el TDAH
-> ¿Me sirve esta guía si pienso que podría ser TDAH?
+> Preguntas frecuentes
 
-La respuesta es sí. El TDAH (Transtorno de déficit de atención e hiperactividad)
-es muy coocurrente con el autismo. Se suele decir que alrededor del 50% de
-autistas son tambien TDAH. 
+#### 1️⃣ ¿Me sirve esta guía para explorar el TDAH?
 
-> ¿Que tiene en común TDAH y autismo?
+Si, el TDAH (Transtorno de déficit de atención e hiperactividad)
+es muy coincidente o co-ocurrente con el autismo. Se suele decir que alrededor del 50% de
+autistas son tambien TDAH, tambien llamado AuDH (Autismo + TDAH). 
+
+Sin embargo hay rasgos exclusivos que solo se dan en gente TDAH y no se dan en
+personas que solo son autistas. Y tambien hay algunos rasgos que no se dan tanto
+en personas exclusivamente TDAH, en teoría las secciones de lenguaje.
+
+**Importante**: Todo esto es interpretable, subjetivo para cada persona, su experiencia
+vital y su grado de autodescubrimiento.
+
+#### 2️⃣ ¿Que tiene en común TDAH y autismo?
+
 Diría que casi todos los rasgos autistas pueden mostrarse en gente TDAH.
 La sensorialidad atípica, autoestimulación, enmascaramiento, dificultades
 sociales en espacios sociales neurotípicos, intereses especiales, etc, etc.
 
-> ¿En que se diferencian TDAH y autismo?
+#### 3️⃣ ¿En que se diferencian TDAH y autismo?
+
 El autismo suele asociarse con el uso de formas de comunicación no verbales y
 o dificultades para expresarse de la forma verbal típica. Esto no suele suceder
 tanto en el TDAH.
 El TDAH se asocia con un pensamiento mas disperso entre múltiples focos de
 atención y con hiperactividad mental. 
 
-> Origen del TDAH, TDA, TDH, ...
+#### 4️⃣ Origen del TDAH, TDA, TDH, ...
+
 Todas las variaciones de las siglas del TDAH en realidad se refieren a lo mismo:
 Una regulación de la dopamina en el cerebro atípica.
 Se habla de perfiles inatentos, impulsivos, hiperactivos dependiendo de los
 rasgos mas predominantes de cada persona.
+
 **Opinión**: Quitarle "letras" a las siglas TDAH es confuso. Aunque existan personas TDAH que no sientan que son
 hiperactivas o que tengan dificultades para regular la atención de forma típica
 pienso que es capacitista y no tiene sentido pues describen el mismo perfil neurológico.
 
-> ¿Existen otras formas de llamarlo?
+#### 5️⃣ ¿Existen otras formas de llamarlo?
+
 Se han usado formas como Rango de Atención Variable, etc. 
+
 **Opinión**: Debería buscarse un nombre nuevo, que no sea capacitista al
 TDAH. No debería etiquetarse desde el problema sino desde
 la descripción de la neurodivergencia.
 
-> ¿Podrían ser lo mismo TDAH y autismo?
+#### 6️⃣ ¿Podrían ser lo mismo TDAH y autismo?
+
 Se especula que si. Esto no sería muy extraño dado que tienen tanto en común. Al
 final un cerebro es una sopa de neuronas conectadas que interactúan de formas
 extrañas en gente neurodivergente y las etiquetas las ponemos nosotres
