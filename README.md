@@ -35,6 +35,7 @@ fc-cache -f -v
 		- [ ] Información resumida sobre cerebros autistas vs neurotípicos
 		- [ ] Explicar diferenciación entre sensorialidad por trauma y sensorialidad autista. EMDR.
 		- [ ] Cara autista, expresión facial autista, etc
+		- [ ] Sugerir orden de utilización en la presentación
 - [ ] Seleccionar un tema. Posiblemente https://www.drassil.org/git-wiki/main_page
 - [ ]
 - [ ]

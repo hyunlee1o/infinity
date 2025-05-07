@@ -14,12 +14,13 @@ title: Guía de autodiagnóstico
     1. 📖[Guía de autodiagnóstico](#guía-de-autodiagnóstico)
     1. 📄✍🏽[Plantillas rellenables para documentación de rasgos](#plantillas-rellenables-para-documentación-de-rasgos)
 1. [Presentación](#presentación)
-1. [Glosario](#glosario)
+1. [Glosario/Preguntas frecuentes](#glosario-preguntas-frecuentes)
     1. ✔️ 🔠  [Expresiones relevantes](#expresiones-relevantes)
     1. ♾️  [Definición de autismo](#definición-de-autismo)
        1. 🌻 [El autismo es una discapacidad](#el-autismo-es-una-discapacidad)
     1. ❌ 📘 [Sobre el lenguaje médico](#sobre-el-lenguaje-médico)
 	1. 🔍⚕️ [Sobre el término autodiagnóstico](#sobre-el-término-autodiagnóstico)
+	1. [Sobre el TDAH](#sobre-el-tdah)
 1. [Sobre los diagnósticos](#sobre-los-diagnósticos)
     1. 📝 [Vías para (auto)diagnosticarse](#vías-para-autodiagnosticarse)
     1. ❌ 👎  [Crítica a los procesos de diagnóstico oficiales](#crítica-a-los-procesos-de-diagnóstico-oficiales)
@@ -86,26 +87,63 @@ Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 
 # Presentación 
 
-Si has llegado hasta aquí con la intención de buscar respuestas significa que hay una **probabilidad altísima de que seas autista**. Esta guía fue creada con la idea de facilitar el autodiagnóstico y creemos que os puede ayudar mucho, especialmente si no sabéis por dónde empezar. Creemos que cualquier persona puede decidir si es autista o no sin necesidad de que otra gente opine al respecto. El proceso de diagnosticarse como autista en la mayoría de los casos no es tan simple como sentarse durante horas frente a profesionales y esperar que con eso baste, sino la persona interesada debe implicarse muy activamente para que se le perciba correctamente. Por eso hemos creado esta guía para **facilitaros la vida** y que tengáis información actualizada, fiable y compilada **<u>por autistas y para autistas</u>**.
+Si has llegado hasta aquí con la intención de buscar respuestas significa que
+hay una **probabilidad altísima de que seas autista**. Esta guía fue creada con
+la idea de facilitar el autodiagnóstico y creemos que os puede ayudar mucho,
+especialmente si no sabéis por dónde empezar. Creemos que cualquier persona
+puede decidir si es autista o no sin necesidad de que otra gente opine al
+respecto. El proceso de diagnosticarse como autista en la mayoría de los casos
+no es tan simple como sentarse durante horas frente a profesionales y esperar
+que con eso baste, sino la persona interesada debe implicarse muy activamente
+para que se le perciba correctamente. Por eso hemos creado esta guía para
+**facilitaros la vida** y que tengáis información actualizada, fiable y
+compilada **<u>por autistas y para autistas</u>**.
 
-Actualmente autodiagnosticarse es un infierno para mucha gente porque no existen prácticamente recursos de autodiagnóstico fiables mas allá de las pruebas de entre diez y cientos de preguntas de respuesta múltiple, generalmente creadas por alistas. Dichas pruebas no ayudan a prepararse para un diagnóstico oficial o siquiera para autodiagnosticarse porque:
+
+Actualmente autodiagnosticarse es un infierno para mucha gente porque no existen
+prácticamente recursos de autodiagnóstico fiables mas allá de las pruebas de
+entre diez y cientos de preguntas de respuesta múltiple, generalmente creadas
+por alistas. Dichas pruebas no ayudan a prepararse para un diagnóstico oficial o
+siquiera para autodiagnosticarse porque:
+
 
 * Están plagadas de **prejuicios** hacia autistas y se basan en **estereotipos** dañinos
-* No dan información mas allá de generalizaciones y números **arbitrarios** para describir tus rasgos autistas
-* No dan mucha información cualitativa ni se acompañan de fuentes de información sobre los rasgos para conocer los siguientes pasos a seguir.
+* No dan información mas allá de generalizaciones y números **arbitrarios** para
+  describir tus rasgos autistas
+* No dan mucha información cualitativa ni se acompañan de fuentes de información
+  sobre los rasgos para conocer los siguientes pasos a seguir. 
 * No consideran factores importantes como:
   * Otras neurodivergencias, traumas y condiciones.
   * El enmascaramiento de los rasgos (*"masking"*)
 
-    Lo cual hace que las puntuaciones sean mas bajas cuando la persona no ha empezado su proceso de autodiagnóstico y autodescubrimiento.
+    Lo cual hace que las puntuaciones sean mas bajas cuando la persona no ha
+    empezado su proceso de autodiagnóstico y autodescubrimiento.
 
-Somos un colectivo con una tasa 80-96% de desempleo y que no puede permitirse perder más autonomía por el alto grado de intromisión, capacitismo y maltrato que existe por parte del sistema capitalista y sus instituciones (familias, editoriales, profesionales de la mente, gobiernos, alistas *influencers*, etc.) a toda la gente neurodivergente y/o discapacitada. Esta guía es una respuesta a eso.
+Somos un colectivo con una tasa 80-96% de desempleo y que no puede permitirse
+perder más autonomía por el alto grado de intromisión, capacitismo y maltrato
+que existe por parte del sistema capitalista y sus instituciones (familias,
+editoriales, profesionales de la mente, gobiernos, alistas *influencers*, etc.)
+a toda la gente neurodivergente y/o discapacitada. Esta guía es una respuesta a
+eso.
+
+## Como usar esta guía
+Es una guía de 📚 **lectura libre**, puedes leerla en el orden que te venga bien. Está
+bien enlazada para que puedes fluir entre las secciones libremente y suele tener
+botones para ⬆**volver al índice**⬆ después de cada sección.
+* Si quieres 🚀 **resolver dudas rápidas** sobre rasgos: Ve al punto 7 "Rasgos
+  autistas"
+* Si quieres 🚄 **aprender el método** de autodiagnóstico: Ve al punto 6 "Instrucciones
+  para la plantilla de autodiagnóstico" y léete las secciones de rasgos.
+* Si quieres 🛶 **aprender** de donde salió esta guía y obtener un conocimiento mas extenso sobre toda la
+  problemática social del (auto)diagnostico de autismo; puedes leer las
+  secciones 4 y 5: "Glosario/Preguntas frecuentes y "Sobre los diagnósticos".
+ 
 
 ⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
-
+ 
 ---
 
-# Glosario 
+# Glosario/Preguntas frecuentes 
 
 ## Expresiones relevantes
 
@@ -276,8 +314,49 @@ sin herramientas, redes de apoyo y sin argumentos.
 
 ⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
 
----
+## Sobre el TDAH
+> ¿Me sirve esta guía si pienso que podría ser TDAH?
 
+La respuesta es sí. El TDAH (Transtorno de déficit de atención e hiperactividad)
+es muy coocurrente con el autismo. Se suele decir que alrededor del 50% de
+autistas son tambien TDAH. 
+
+> ¿Que tiene en común TDAH y autismo?
+Diría que casi todos los rasgos autistas pueden mostrarse en gente TDAH.
+La sensorialidad atípica, autoestimulación, enmascaramiento, dificultades
+sociales en espacios sociales neurotípicos, intereses especiales, etc, etc.
+
+> ¿En que se diferencian TDAH y autismo?
+El autismo suele asociarse con el uso de formas de comunicación no verbales y
+o dificultades para expresarse de la forma verbal típica. Esto no suele suceder
+tanto en el TDAH.
+El TDAH se asocia con un pensamiento mas disperso entre múltiples focos de
+atención y con hiperactividad mental. 
+
+> Origen del TDAH, TDA, TDH, ...
+Todas las variaciones de las siglas del TDAH en realidad se refieren a lo mismo:
+Una regulación de la dopamina en el cerebro atípica.
+Se habla de perfiles inatentos, impulsivos, hiperactivos dependiendo de los
+rasgos mas predominantes de cada persona.
+**Opinión**: Quitarle "letras" a las siglas TDAH es confuso. Aunque existan personas TDAH que no sientan que son
+hiperactivas o que tengan dificultades para regular la atención de forma típica
+pienso que es capacitista y no tiene sentido pues describen el mismo perfil neurológico.
+
+> ¿Existen otras formas de llamarlo?
+Se han usado formas como Rango de Atención Variable, etc. 
+**Opinión**: Debería buscarse un nombre nuevo, que no sea capacitista al
+TDAH. No debería etiquetarse desde el problema sino desde
+la descripción de la neurodivergencia.
+
+> ¿Podrían ser lo mismo TDAH y autismo?
+Se especula que si. Esto no sería muy extraño dado que tienen tanto en común. Al
+final un cerebro es una sopa de neuronas conectadas que interactúan de formas
+extrañas en gente neurodivergente y las etiquetas las ponemos nosotres
+con sugerencias de la investigación en neurociencia. 
+
+⬆[[**<u>Volver a la tabla de contenidos</u>**][1]]⬆
+ 
+---
 
 # Sobre los diagnósticos 
 
