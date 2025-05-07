@@ -24,10 +24,7 @@ fc-cache -f -v
 - [x] Página de herramientas de desarrollo (just, pandoc, NerdFonts, linux, etc)
 - [ ] Guía de autodiagnóstico
     - Tooling
-	    - [x] Cambiar versión estandar a una fuente mas accesible.
-	    - [x] Generar edición con fuente OpenDyslexyc
-	    - [x] Actualizar links para incluir edición OpenDyslexic
-		- [ ] Asegurar funcionamiento de todos los links y del índice
+		- [ ] Asegurar funcionamiento de todos los links internos y del índice
 	- Contenido
 		- [ ] Mejorar comunicación autista verbal y no verbal (Detallar)
 		- [ ] Comunicación: Añadir Comunicación Aumentativa y Alternativa (CAA), Preparar Guiones
