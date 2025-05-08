@@ -167,14 +167,14 @@ funcionamiento de todos sistemas del cuerpo humano: Nervioso, interoceptivo, dig
 
 ### El autismo es una discapacidad
 La **discapacidad** es toda condición humana que presenta barreras para participar en sociedad de forma equitativa.
-Hay muchos tipos de discapacidad: Física, orgánica, sensorial, 
+Hay muchos tipos de discapacidad: Física, orgánica, sensorial, etc.
 
 El autismo es una **<u>discapacidad dinámica no visible</u>** que además es muy heterogénea porque puede entrar en multiples tipos. 
 
 * Es **dinámica** porque varía según el contexto, el lugar, la energía, el tiempo, las adaptaciones y facilidades que recibamos, etc.
 * Es **invisible** o **no visible** porque no se puede saber a simple vista, o con exploraciones médicas sencillas
   si alguien es autista sino con un análisis detallado de su comportamiento.
-* <u>Tipos de discapacidades a los que pertenece. En orden de relevancia:</u>:
+* <u>Tipos de discapacidades</u> a los que pertenece. En orden de relevancia:
 	* 1️⃣ Es **psicosocial** porque la principal causa de discriminación es la conducta social autista.
 	  Se nos dificulta existir en una sociedad hecha para neurotípiques por su falta de consideración hacia otras realidades.
 	* 2️⃣ Es **sensorial** porque es muy habitual que nuestros sentidos nos incapaciten en muchas situaciones por exceso de ruidos, luces, etc.
@@ -330,11 +330,11 @@ en personas exclusivamente TDAH, en teoría las secciones de lenguaje.
 **Importante**: Todo esto es interpretable, subjetivo para cada persona, su experiencia
 vital y su grado de autodescubrimiento.
 
-#### 2️⃣ ¿Que tiene en común TDAH y autismo?
+#### 2️⃣ ¿Que tienen en común TDAH y autismo?
 
 Diría que casi todos los rasgos autistas pueden mostrarse en gente TDAH.
 La sensorialidad atípica, autoestimulación, enmascaramiento, dificultades
-sociales en espacios sociales neurotípicos, intereses especiales, etc, etc.
+sociales en espacios sociales neurotípicos, intereses especiales, etc.
 
 #### 3️⃣ ¿En que se diferencian TDAH y autismo?
 
@@ -346,7 +346,8 @@ atención y con hiperactividad mental.
 
 #### 4️⃣ Origen del TDAH, TDA, TDH, ...
 
-Todas las variaciones de las siglas del TDAH en realidad se refieren a lo mismo:
+Todas las variaciones de las siglas del TDAH en realidad se refieren al mismo
+suceso neurológico:
 Una regulación de la dopamina en el cerebro atípica.
 Se habla de perfiles inatentos, impulsivos, hiperactivos dependiendo de los
 rasgos mas predominantes de cada persona.
