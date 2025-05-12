@@ -1184,6 +1184,8 @@ donde tienen un cierto control. Nos puede costar salir de ellos o cambiar esos m
   funcionar de la sociedad neurotípica es extraña y que no tiene lógica)
 * Necesidad de justicia (social, personal, etc.)
 * Necesidad de tener planes de escape para situaciones sociales, etc.
+* **"Andar raro"**, sin seguir al grupo: Haciendo paradas, adelantandote o
+  atrasandote, yendo hacia los lados, cambiar el rumbo sin consensuarlo.
 
 Hay muchos más que se pueden buscar o leer fuera. Entrevistándote con otres
 autistas podrás reflejarte en muchas de sus experiencias.
