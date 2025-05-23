@@ -69,11 +69,11 @@ Escrito por <u>hyunlee1o</u>
 ## Guía de autodiagnóstico
 
 
-https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico-dislexia.docx
-| Fuente | Enlaces |  |  |  |
-| --- | ---- | ----- | ---- | ---- |
-| Atkinson Hyperlegible | 🔗[PDF](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico.pdf) | 🔗[DOCX](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico.docx) | 🔗[EPUB](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico.epub) | 🔗[TXT](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico.txt)|
-| OpenDyslexic | 🔗[PDF](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico-dislexia.pdf) | 🔗[DOCX](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico-dislexia.docx) | 🔗[EPUB](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico-dislexia.epub) | 🔗[TXT](https://github.com/hyunlee1o/infinity/releases/23.5.2025/guia-de-autodiagn%C3%B3stico-dislexia.txt)|
+<!-- https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico-dislexia.docx -->
+| Fuente | Enlaces |       |      |      |
+| ---    | ----    | ----- | ---- | ---- |
+| Atkinson Hyperlegible | 🔗[PDF](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.pdf) | 🔗[DOCX](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.docx) | 🔗[EPUB](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.epub) | 🔗[TXT](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.txt) |
+| OpenDyslexic | 🔗[PDF](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico-dislexia.pdf) | 🔗[DOCX](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico-dislexia.docx) | 🔗[EPUB](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico-dislexia.epub) | 🔗[TXT](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico-dislexia.txt) |
 
 ## Plantillas rellenables para documentación de rasgos
 
@@ -81,7 +81,7 @@ Estas plantillas sirven para documentar los rasgos autistas/no normativos.
 
 | Enlaces |  |  |
 | :-: | :-: | :-: |
-|🔗[TXT](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.txt)| 🔗[DOCX](https://media.githubusercontent.com/media/hyunlee1o/infinity/main/docs/downloads/guia-de-autodiagn%C3%B3stico/plantilla.docx) | 🔗[Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega) |
+|🔗[TXT](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/plantilla.txt)| 🔗[DOCX](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/plantilla.docx) | 🔗[Texto plano copia pega](#plantilla-de-rasgos-para-copia-pega) |
 
 ⬆[[Volver a la tabla de contenidos][1]]⬆
 
