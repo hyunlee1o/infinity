@@ -67,9 +67,8 @@ Escrito por <u>hyunlee1o</u>
 # Descargas 
 
 ## Guía de autodiagnóstico
+Las nuevas versiones se pueden descargar en la sección "Assets" en [Github](https://github.com/hyunlee1o/infinity/releases/latest)
 
-
-<!-- https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico-dislexia.docx -->
 | Fuente | Enlaces |       |      |      |
 | ---    | ----    | ----- | ---- | ---- |
 | Atkinson Hyperlegible | 🔗[PDF](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.pdf) | 🔗[DOCX](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.docx) | 🔗[EPUB](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.epub) | 🔗[TXT](https://github.com/hyunlee1o/infinity/releases/download/23.5.2025/guia-de-autodiagnostico.txt) |
